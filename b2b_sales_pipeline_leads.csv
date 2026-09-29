@@ -1,0 +1,764 @@
+decision_maker_name,first_name,last_name,decision_maker_title,seniority_level,company_domain,industry,country,email_address,lead_priority_tier
+A Ansari,A,Ansari,Non Executive Director Co-Founder,Executive / C-Suite,turquoisehorizon.com,Unknown,United States,aj@turquoisehorizon.com,Tier 1 - High Priority
+A Ansmith Franklin,A,Ansmith Franklin,Group Director Of Food And Beverage,Executive / C-Suite,marriott.com,Hospitality,India,ansmith.franklin@marriott.com,Tier 1 - High Priority
+A Cameron Strong,A,Cameron Strong,Chief Executive Officer Of Invis And Mortgage Intelligence,Executive / C-Suite,invis.ca,Financial Services,Canada,cameronstrong@invis.ca,Tier 1 - High Priority
+A Cwc Mark Wertman,A,Cwc Mark Wertman,Owner,Executive / C-Suite,qwestoffice.net,Events Services,United Kingdom,cwcmark@qwestoffice.net,Tier 1 - High Priority
+A Eagle Eye,A,Eagle Eye,Sergeant,Individual Contributor / Other,zonnet.nl,Management Consulting,Australia,hypersniper@zonnet.nl,Tier 4 - Nurture
+A Esteban,A,Esteban,President,Executive / C-Suite,shu.edu,Higher Education,United States,a.esteban@shu.edu,Tier 1 - High Priority
+A Jos?? De Armas,A,Jos?? De Armas,"Senior Project Manager, Development",Managerial,alumni.uwo.ca,Renewables & Environment,Canada,ajdearmas@alumni.uwo.ca,Tier 3 - Low Priority
+A Krista Kivisild,A,Krista Kivisild,It Audit And Enterprise Risk Manager,Managerial,teekay.com,Maritime,Canada,krista.kivisild@teekay.com,Tier 3 - Low Priority
+A Mark Wilburn,A,Mark Wilburn,Home Keyboards Product Manager,Managerial,telus.net,Music,Canada,mwilburn@telus.net,Tier 3 - Low Priority
+A Murali M Rao,A,Murali M Rao,Joint Director,Executive / C-Suite,ignou.ac.in,Education Management,India,murli@ignou.ac.in,Tier 1 - High Priority
+A Murphy,A,Murphy,Principal,Individual Contributor / Other,det.nsw.edu.au,Secondary Education,Australia,tempe-h.school@det.nsw.edu.au,Tier 4 - Nurture
+A Nambi Appadurai,A,Nambi Appadurai,Director,Executive / C-Suite,wri.org,Think Tanks,India,nappadurai@wri.org,Tier 1 - High Priority
+A Roxanne Cochran,A,Roxanne Cochran,"Ceo, Cfo",Executive / C-Suite,adobe.com,Accounting,United States,acochran@adobe.com,Tier 1 - High Priority
+A S Anand Kumar,A,S Anand Kumar,Managing Director,Executive / C-Suite,valuevision.co.in,Investment Banking,India,anand@valuevision.co.in,Tier 1 - High Priority
+A. Sandra Manolescu,A.,Sandra Manolescu,Regional President - Europe,Executive / C-Suite,royalcanin.com,Consumer Goods,United States,manolescu.a.-sandra@royalcanin.com,Tier 1 - High Priority
+A.A Chaudhary,A.A,Chaudhary,Director- Export Environment,Executive / C-Suite,opaxa.in,Import And Export,India,aa@opaxa.in,Tier 1 - High Priority
+A.Anandan Naidu,A.Anandan,Naidu,Manager,Managerial,alokind.com,Textiles,India,sgt.anandan.n@alokind.com,Tier 3 - Low Priority
+A.D Naik,A.D,Naik,"Senior Vice President Finance, Electrical Sector",Executive / C-Suite,eaton.com,Electrical/Electronic Manufacturing,United States,a.dnaik@eaton.com,Tier 1 - High Priority
+A.J Gentile,A.J,Gentile,Owner - Photographer,Executive / C-Suite,realmsofnarnia.org,Photography,Canada,matrim@realmsofnarnia.org,Tier 1 - High Priority
+A.J Mcniven,A.J,Mcniven,Senior Vice President,Executive / C-Suite,citizensbank.com,Banking,United States,a.j.mcniven@citizensbank.com,Tier 1 - High Priority
+A.Joseph Chahine,A.Joseph,Chahine,Territory Manager,Managerial,essilor.ca,Business Supplies And Equipment,Canada,jabichahine@essilor.ca,Tier 3 - Low Priority
+A.K Roy,A.K,Roy,Manager Hse,Managerial,afcons.com,Construction,India,akr_2007@afcons.com,Tier 3 - Low Priority
+A.K.Ajith Kumar,A.K.Ajith,Kumar,Senior Garment Technologist,Individual Contributor / Other,marksandspencer.com,Apparel & Fashion,India,a.k.ajith.kumar@marksandspencer.com,Tier 4 - Nurture
+A.K.M Joseph,A.K.M,Joseph,Senior Media Manager,Managerial,mindshare-bd.com,Marketing And Advertising,United Kingdom,mahbub.alam@mindshare-bd.com,Tier 3 - Low Priority
+A.Karim Shekhani,A.Karim,Shekhani,Director Operations,Executive / C-Suite,culligan.com.pk,Environmental Services,United Kingdom,akshekhani@culligan.com.pk,Tier 1 - High Priority
+A.Pratham Bhardwaj,A.Pratham,Bhardwaj,Human Resources Specialist,Individual Contributor / Other,exlservice.com,Internet,India,apratham.bhardwaj@exlservice.com,Tier 4 - Nurture
+A.Rahim Al-Abbasi,A.Rahim,Al-Abbasi,Chief Business Excellence,Executive / C-Suite,cio.gov.bh,Government Administration,United Kingdom,arahim@cio.gov.bh,Tier 1 - High Priority
+A.Sc.T Brad Murphy,A.Sc.T,Brad Murphy,Executive Vice President,Executive / C-Suite,racon-eng.com,Design,Canada,brad@racon-eng.com,Tier 1 - High Priority
+A.Sc.T Brook Davis,A.Sc.T,Brook Davis,Business Development And Marketing Manager,Managerial,teampowersolutions.ca,Mechanical Or Industrial Engineering,Canada,brook.davis@teampowersolutions.ca,Tier 3 - Low Priority
+A.Sivakumar Kumar,A.Sivakumar,Kumar,Manager In Sugar Industry,Managerial,parry.murugappa.com,Food Production,India,sivakumara@parry.murugappa.com,Tier 3 - Low Priority
+A.T Mathew,A.T,Mathew,Senior .Vice President-Corporate Projects,Executive / C-Suite,adityabirla.com,Mining & Metals,India,atmathew@adityabirla.com,Tier 1 - High Priority
+A.Venkatesh,A.Venkatesh,Unknown,Junior Manager - Accounts,Managerial,hcl.in,Information Technology And Services,India,a.venkatesh@hcl.in,Tier 3 - Low Priority
+Aabhas Katyal,Aabhas,Katyal,General Manager - Enterprise Sales,Managerial,tatacommunications.com,Telecommunications,India,aabhas.katyal@tatacommunications.com,Tier 3 - Low Priority
+Aachal Chand,Aachal,Chand,Nutritionist,Individual Contributor / Other,wfp.org,Non-Profit Organization Management,Australia,aachal.chand@wfp.org,Tier 4 - Nurture
+Aad Groenenboom,Aad,Groenenboom,Senior Surveyor,Individual Contributor / Other,lr.org,Public Safety,United Kingdom,aad.groenenboom@lr.org,Tier 4 - Nurture
+Aadarsh Dewan,Aadarsh,Dewan,Assistant Manager - Integrated Communications,Managerial,perfectrelations.com,Public Relations And Communications,India,adewan@perfectrelations.com,Tier 3 - Low Priority
+Aadesh Singh,Aadesh,Singh,Senior It Engineer,Individual Contributor / Other,adobe.com,Computer Software,India,asingh@adobe.com,Tier 4 - Nurture
+Aadil Cockar,Aadil,Cockar,Senior Business Manager - Building Services,Managerial,hays.com,Staffing And Recruiting,United Kingdom,aadil.cockar@hays.com,Tier 3 - Low Priority
+Aadil Manzoor,Aadil,Manzoor,Senior Clinical Project Manager,Managerial,quintiles.com,Hospital & Health Care,India,aadil.manzoor@quintiles.com,Tier 3 - Low Priority
+Aadil Mohammed,Aadil,Mohammed,Operations Manager,Managerial,outlook.com,Retail,Canada,aadilmo@outlook.com,Tier 3 - Low Priority
+Aadil Raja,Aadil,Raja,Assistant Manager Corporate Relations And Collections,Managerial,falconitracking.com,Security And Investigations,United Kingdom,aadil.raja@falconitracking.com,Tier 3 - Low Priority
+Aadit Grover,Aadit,Grover,Area Sales Manager,Managerial,marico.com,Cosmetics,India,aadit.grover@marico.com,Tier 3 - Low Priority
+Aaditya Janakiram,Aaditya,Janakiram,"Manager, Quality And Continuous Improvement",Managerial,alliedoneindustrial.com,Aviation & Aerospace,Canada,ajanakiram@alliedoneindustrial.com,Tier 3 - Low Priority
+Aaditya Razdan,Aaditya,Razdan,National Sales Head Sap Education @ Times Professional Learning,Director Level,timesgroup.com,Newspapers,India,aaditya.razdan@timesgroup.com,Tier 2 - Medium Priority
+Aafke Abbas,Aafke,Abbas,Senior Talent Acquisition Manager,Managerial,iag.com.au,Online Media,Australia,aafke.abbas@iag.com.au,Tier 3 - Low Priority
+Aaftaab Kharbanda,Aaftaab,Kharbanda,Vice President - Projects,Executive / C-Suite,shelfdrilling.com,Oil & Energy,India,aaftaab.kharbanda@shelfdrilling.com,Tier 1 - High Priority
+Aage Pedersen,Aage,Pedersen,Human Resources Partner,Individual Contributor / Other,dk.issworld.com,Facilities Services,Australia,aage.hoey.pedersen@dk.issworld.com,Tier 4 - Nurture
+Aahsan Rahman,Aahsan,Rahman,Department Head - Town Planning,Director Level,property.nhs.uk,Commercial Real Estate,United Kingdom,aahsan.rahman@property.nhs.uk,Tier 2 - Medium Priority
+Aaj Jaralla,Aaj,Jaralla,Head Of Corrosion Discipline,Director Level,mottmac.com,Civil Engineering,United Kingdom,aaj.jaralla@mottmac.com,Tier 2 - Medium Priority
+Aakanksha Bajpayee,Aakanksha,Bajpayee,Investors,Individual Contributor / Other,hyderabadangels.in,Angel Investors,United States,aakanksha.b@hyderabadangels.in,Tier 4 - Nurture
+Aakanksha Chaturvedi,Aakanksha,Chaturvedi,Site Head,Director Level,c3connect.com,Outsourcing/Offshoring,India,aakanksha.chaturvedi@c3connect.com,Tier 2 - Medium Priority
+Aakash Arora,Aakash,Arora,Associate Director Of Operations,Executive / C-Suite,stryker.com,Medical Devices,India,aakash.arora@stryker.com,Tier 1 - High Priority
+Aakash Bedi,Aakash,Bedi,Senior Executive,Individual Contributor / Other,honda2wheelersindia.com,Publishing,India,aakash.bedi@honda2wheelersindia.com,Tier 4 - Nurture
+Aakash Khandelwal,Aakash,Khandelwal,Senior .Sales Executive,Individual Contributor / Other,carwale.com,Automotive,India,aakash.khandelwal@carwale.com,Tier 4 - Nurture
+Aakash Pimplikar,Aakash,Pimplikar,Regional Sales Manager,Managerial,hdfcergo.com,Insurance,India,aakash.pimplikar@hdfcergo.com,Tier 3 - Low Priority
+Aakash Sajid,Aakash,Sajid,Senior First Officer,Individual Contributor / Other,loganair.co.uk,Airlines/Aviation,United Kingdom,aakashsajid@loganair.co.uk,Tier 4 - Nurture
+Aakash Sudhanwa,Aakash,Sudhanwa,Senior Devops Engineer,Individual Contributor / Other,amd.com,Computer Networking,India,aakash.sudhanwa@amd.com,Tier 4 - Nurture
+Aakash Suryawanshi,Aakash,Suryawanshi,Accounts Payable Manager,Managerial,altisource.com,Real Estate,India,aakash.suryawanshi@altisource.com,Tier 3 - Low Priority
+Aakriti Singh,Aakriti,Singh,Human Resources Business Partner,Individual Contributor / Other,ubisoft.com,Entertainment,India,aakriti.singh@ubisoft.com,Tier 4 - Nurture
+Aakriti Thakur,Aakriti,Thakur,Business Manager,Managerial,healthians.com,"Health, Wellness And Fitness",India,aakriti.thakur@healthians.com,Tier 3 - Low Priority
+Aakriti Vohra,Aakriti,Vohra,Sacred Heart Convent Senior Secondary,Individual Contributor / Other,titan.co.in,Medical Practice,India,aakriti@titan.co.in,Tier 4 - Nurture
+Aalap Gaekwad,Aalap,Gaekwad,Associate Project Manager,Managerial,horizontalintegration.com,Research,India,agaekwad@horizontalintegration.com,Tier 3 - Low Priority
+Aaliyah Gunaratne,Aaliyah,Gunaratne,Candidate Manager,Managerial,sklactuarial.com.au,Human Resources,Australia,aaliyah@sklactuarial.com.au,Tier 3 - Low Priority
+Aalok Mehta,Aalok,Mehta,Associate Manager,Managerial,iqvia.com,Pharmaceuticals,India,aalok.mehta@iqvia.com,Tier 3 - Low Priority
+Aalund Martin,Aalund,Martin,Mechanical Engineering Manager,Managerial,schilling.com,Manufacturing,United States,martin.aalund@schilling.com,Tier 3 - Low Priority
+Aamer Ather,Aamer,Ather,Senior Gis Consultant,Individual Contributor / Other,arcadis.com,Food & Beverages,United Kingdom,aamer.ather@arcadis.com,Tier 4 - Nurture
+Aamer Quazi,Aamer,Quazi,Head - Project Management,Director Level,danubeproperties.ae,Architecture & Planning,India,aamer.quazi@danubeproperties.ae,Tier 2 - Medium Priority
+Aamir Alikhan,Aamir,Alikhan,Consultant,Individual Contributor / Other,capgemini.com,Defense & Space,Australia,aamir.alikhan@capgemini.com,Tier 4 - Nurture
+Aamir Islam,Aamir,Islam,Managing Director At Dbb Worldwide Pvt Ltd Founder,Executive / C-Suite,sagroupindia.com,Logistics And Supply Chain,India,aamir@sagroupindia.com,Tier 1 - High Priority
+Aamir Shah,Aamir,Shah,Senior Patent Research Analyst,Individual Contributor / Other,ttconsultants.com,Legal Services,India,aamir.shah@ttconsultants.com,Tier 4 - Nurture
+Aamir Zahoor,Aamir,Zahoor,Channel Sales Manager,Managerial,matrixcomsec.com,Industrial Automation,India,aamir.zahoor@matrixcomsec.com,Tier 3 - Low Priority
+Aamod Datar,Aamod,Datar,Vice-President,Executive / C-Suite,iarc.co.in,Investment Management,India,aamod.datar@iarc.co.in,Tier 1 - High Priority
+Aamotsbakken Reidar,Aamotsbakken,Reidar,Medical Device Program Manager,Managerial,design-concepts.com,Business Services,United States,reidar.aamotsbakken@design-concepts.com,Tier 3 - Low Priority
+Aaran Ferguson,Aaran,Ferguson,Regional Manager Southern Interior Stations,Managerial,bchydro.com,Utilities,Canada,aaran.ferguson@bchydro.com,Tier 3 - Low Priority
+Aardestrup Tom,Aardestrup,Tom,Export And Business Development Manager,Managerial,trackunit.com,Unknown,United States,tva@trackunit.com,Tier 3 - Low Priority
+Aaresh Bachana,Aaresh,Bachana,Senior Embedded Software Engineer,Individual Contributor / Other,colorado.edu,Consumer Electronics,India,aaresh.bachana@colorado.edu,Tier 4 - Nurture
+Aarif Ahmed,Aarif,Ahmed,Head Of Operations,Director Level,aiocdawacs.com,Market Research,India,aarif@aiocdawacs.com,Tier 2 - Medium Priority
+Aaron Adkins,Aaron,Adkins,Relationship Manager,Managerial,finlease.com.au,Other Auxiliary Finance And Investment Services,Australia,aadkins@finlease.com.au,Tier 3 - Low Priority
+Aaron Alejandro Galv?Â­N Rodr??Guez,Aaron,Alejandro Galv?Â­N Rodr??Guez,Jefe Comercio Exterior,Individual Contributor / Other,bostik.com,Chemicals,United States,aaron-alejandro.galvan-rodriguez@bostik.com,Tier 4 - Nurture
+Aaron Artery,Aaron,Artery,Founder And Chief Executive Officer At Customer Crunch,Executive / C-Suite,customercrunch.com,Information Services,Australia,aaron@customercrunch.com,Tier 1 - High Priority
+Aaron Baer,Aaron,Baer,Storeperson,Individual Contributor / Other,westrac.com.au,Machinery,Australia,aaron.baer@westrac.com.au,Tier 4 - Nurture
+Aaron Balloch,Aaron,Balloch,Biomechanist- Athletics And Swimming,Individual Contributor / Other,wais.org.au,Sports,Australia,aballoch@wais.org.au,Tier 4 - Nurture
+Aaron Batalion,Aaron,Batalion,Angel Investor,Individual Contributor / Other,lsvp.com,Angel (Individual),United States,aaron@lsvp.com,Tier 4 - Nurture
+Aaron Beagley,Aaron,Beagley,"Manager, Customer Services",Managerial,advancepress.com.au,Printing,Australia,info@advancepress.com.au,Tier 3 - Low Priority
+Aaron Beasley,Aaron,Beasley,Vice President Of Sales,Executive / C-Suite,watersignal.com,Facilities & Services,United States,abeasley@watersignal.com,Tier 1 - High Priority
+Aaron Bertram,Aaron,Bertram,Manager - Bickley Outdoor Recreation Camp,Managerial,dsr.wa.gov.au,Public Policy,Australia,abertram@dsr.wa.gov.au,Tier 3 - Low Priority
+Aaron Binns,Aaron,Binns,"Economist, Strategist, And Technology Consultant",Individual Contributor / Other,wol.org.au,Business And Professional Association Services,Australia,aaronb@wol.org.au,Tier 4 - Nurture
+Aaron Blades,Aaron,Blades,Youth Worker,Individual Contributor / Other,lwb.org.au,Individual & Family Services,Australia,aaron.blades@lwb.org.au,Tier 4 - Nurture
+Aaron Block,Aaron,Block,Co-Founder & Managing Director,Executive / C-Suite,metaprop.org,Accelerator/Incubator,United States,aaron.block@metaprop.org,Tier 1 - High Priority
+Aaron Bognar,Aaron,Bognar,Product Design Engineer,Individual Contributor / Other,moduplay.com.au,Combined Primary And Secondary Education,Australia,aaron@moduplay.com.au,Tier 4 - Nurture
+Aaron Boxerman,Aaron,Boxerman,B2B Demand/Lead Generation & Social Selling Consulting (& President),Executive / C-Suite,thirdarch.com,Marketing & Advertising,United States,aaron@thirdarch.com,Tier 1 - High Priority
+Aaron Boyd,Aaron,Boyd,Electronic Gaming Attendant,Individual Contributor / Other,crownmelbourne.com.au,Gambling & Casinos,Australia,aaronb@crownmelbourne.com.au,Tier 4 - Nurture
+Aaron Caffey,Aaron,Caffey,Vp Sales,Individual Contributor / Other,i3verticals.com,Finance,United States,acaffey@i3verticals.com,Tier 4 - Nurture
+Aaron Camilleri,Aaron,Camilleri,National Sales Manager,Managerial,eastwesteng.com.au,Other Machinery And Equipment Wholesaling N.E.C.,Australia,sales@eastwesteng.com.au,Tier 3 - Low Priority
+Aaron Chamberlain,Aaron,Chamberlain,Broadcast And Tv Channel Management Expert Director Of Broadcast Services,Executive / C-Suite,mediapaediabroadcast.com,Broadcast Media,United Kingdom,aaron.chamberlain@mediapaediabroadcast.com,Tier 1 - High Priority
+Aaron Chen,Aaron,Chen,Deputy Director,Executive / C-Suite,ms30.url.com.tw,Semiconductors,Canada,aaronchen@ms30.url.com.tw,Tier 1 - High Priority
+Aaron Chinn,Aaron,Chinn,Facility Manager,Managerial,pancakeparlour.com,Cafes And Restaurants,Australia,aaronc@pancakeparlour.com,Tier 3 - Low Priority
+Aaron Chiong,Aaron,Chiong,"Senior Associate, Banking And Projects",Individual Contributor / Other,allenovery.com,Law Practice,Australia,aaron.chiong@allenovery.com,Tier 4 - Nurture
+Aaron Claridge,Aaron,Claridge,Branch Manager Drs,Managerial,na.drakeintl.com,Employment Placement And Recruitment Services,Australia,aclaridge@na.drakeintl.com,Tier 3 - Low Priority
+Aaron Condon,Aaron,Condon,Channel Development Manager,Managerial,checkpoint.com,Computer & Network Security,Australia,acondon@checkpoint.com,Tier 3 - Low Priority
+Aaron Confer,Aaron,Confer,Director Of Sales,Executive / C-Suite,interworks.com,Information Technology & Services,United States,aaron.confer@interworks.com,Tier 1 - High Priority
+Aaron Constantinou,Aaron,Constantinou,Travel Manager,Managerial,gwagroup.com.au,Building Materials,Australia,aconstantinou@gwagroup.com.au,Tier 3 - Low Priority
+Aaron Cpa,Aaron,Cpa,Commercial Manager,Managerial,netmodular.com.au,House Construction,Australia,info@netmodular.com.au,Tier 3 - Low Priority
+Aaron Davidson,Aaron,Davidson,Construction Manager,Managerial,dentonhomes.com.au,Other Residential Building Construction,Australia,aarondavidson@dentonhomes.com.au,Tier 3 - Low Priority
+Aaron Davis,Aaron,Davis,Director Of Instruction - School Services,Executive / C-Suite,vsb.bc.ca,Primary/Secondary Education,Canada,adavis@vsb.bc.ca,Tier 1 - High Priority
+Aaron Day,Aaron,Day,Practice Manager,Managerial,sifp.com.au,Financial Asset Investing,Australia,aaron.day@sifp.com.au,Tier 3 - Low Priority
+Aaron Eades,Aaron,Eades,Graphic Designer,Individual Contributor / Other,helloworld.com.au,"Leisure, Travel & Tourism",Australia,aaron.eades@helloworld.com.au,Tier 4 - Nurture
+Aaron Felton,Aaron,Felton,Human Resources And Payroll,Individual Contributor / Other,rbstar.co.uk,Wholesale,United Kingdom,aaron.felton@rbstar.co.uk,Tier 4 - Nurture
+Aaron Fielder,Aaron,Fielder,Operator,Individual Contributor / Other,aurizon.com.au,Transportation/Trucking/Railroad,Australia,aaron.fielder@aurizon.com.au,Tier 4 - Nurture
+Aaron Fischer,Aaron,Fischer,Human Resources Administrator - Nsw/Act,Individual Contributor / Other,bunnings.com.au,Other Manufacturing N.E.C.,Australia,afischer@bunnings.com.au,Tier 4 - Nurture
+Aaron Fitchett,Aaron,Fitchett,Tax Partner,Individual Contributor / Other,baumgartner.com.au,Accounting Services,Australia,af@baumgartner.com.au,Tier 4 - Nurture
+Aaron Fitzmaurice,Aaron,Fitzmaurice,Devonport Manager,Managerial,freshfreight.com.au,Other Transport N.E.C.,Australia,afitzmaurice@freshfreight.com.au,Tier 3 - Low Priority
+Aaron Freschi,Aaron,Freschi,Founder And Curator,Executive / C-Suite,telus.net,Fine Art,Canada,afreschi@telus.net,Tier 1 - High Priority
+Aaron Golledge,Aaron,Golledge,Fyi Inspections,Individual Contributor / Other,livingdesign.com.au,Other Specialised Food Retailing,Australia,aaron@livingdesign.com.au,Tier 4 - Nurture
+Aaron Goth,Aaron,Goth,Materials And Services Buyer,Individual Contributor / Other,obrienglass.com.au,"Glass, Ceramics & Concrete",Australia,aaron_goth@obrienglass.com.au,Tier 4 - Nurture
+Aaron Grossman,Aaron,Grossman,"Director, Strategic Sales",Executive / C-Suite,chrobinson.com,Logistics & Supply Chain,United States,aaron.grossman@chrobinson.com,Tier 1 - High Priority
+Aaron Haigh,Aaron,Haigh,Special Projects Manager,Managerial,hartmarine.com.au,Boatbuilding And Repair Services,Australia,aaron@hartmarine.com.au,Tier 3 - Low Priority
+Aaron Hamilton-Williams,Aaron,Hamilton-Williams,Strategic Development Manager,Managerial,standguide.co.uk,Professional Training & Coaching,United Kingdom,a.hamiltonwilliams@standguide.co.uk,Tier 3 - Low Priority
+Aaron Harrison-Stewart,Aaron,Harrison-Stewart,"Manager, Operations",Managerial,lakesideplumbing.com.au,Plumbing Services,Australia,aaron@lakesideplumbing.com.au,Tier 3 - Low Priority
+Aaron Holden,Aaron,Holden,Manager - Information Technology Services,Managerial,tech360.com.au,Computer System Design And Related Services,Australia,aaron@tech360.com.au,Tier 3 - Low Priority
+Aaron Holly,Aaron,Holly,"Manager, Molecular Imaging Center",Managerial,boselec.com,Education,United States,fsp@boselec.com,Tier 3 - Low Priority
+Aaron Horton,Aaron,Horton,Systems Officer,Individual Contributor / Other,multicap.org.au,Other Allied Health Services,Australia,info@multicap.org.au,Tier 4 - Nurture
+Aaron Irving,Aaron,Irving,Executive Officer,Individual Contributor / Other,pearlproducersaustralia.com,Other Administrative Services N.E.C.,Australia,aaron@pearlproducersaustralia.com,Tier 4 - Nurture
+Aaron J. Wong,Aaron,J. Wong,Medical Doctor,Executive / C-Suite,mh.org.au,Other Health Care Services N.E.C.,Australia,aaron.wong@mh.org.au,Tier 1 - High Priority
+Aaron Macdonald,Aaron,Macdonald,"Owner, A3 Creative Solutions",Executive / C-Suite,a3creative-solutions.com,Graphic Design,Canada,aaron@a3creative-solutions.com,Tier 1 - High Priority
+Aaron Mccole,Aaron,Mccole,Tsm,Individual Contributor / Other,elders.com.au,Farming,Australia,amccole@elders.com.au,Tier 4 - Nurture
+Aaron Mugica,Aaron,Mugica,"Manager, Major Projects",Managerial,forcefire.com.au,Fire Protection And Other Emergency Services,Australia,aaronm@forcefire.com.au,Tier 3 - Low Priority
+Aaron Padoshek,Aaron,Padoshek,"Senior Software Development Engineer At Greenfly, Inc",Individual Contributor / Other,greenfly.com,Media Production,India,apadoshek@greenfly.com,Tier 4 - Nurture
+Aaron Paris,Aaron,Paris,Graduate Architect,Individual Contributor / Other,turcoassociates.com.au,Architectural Services,Australia,a.paris@turcoassociates.com.au,Tier 4 - Nurture
+Aaron Paull,Aaron,Paull,Sales & Marketing Manager,Managerial,winarchcapital.com.au,Real Estate Services,Australia,aaron@winarchcapital.com.au,Tier 3 - Low Priority
+Aaron Postma,Aaron,Postma,"Patient Access Senior Associate, Va And P",Individual Contributor / Other,amgen.com,Biotechnology,Canada,apostma@amgen.com,Tier 4 - Nurture
+Aaron Seipel,Aaron,Seipel,Business Development Consultant,Individual Contributor / Other,eastcoastrubber.com.au,Accommodation,Australia,aaron@eastcoastrubber.com.au,Tier 4 - Nurture
+Aaron Skovell,Aaron,Skovell,Wine Consultant,Individual Contributor / Other,armadalecellars.com.au,Wine And Spirits,Australia,aaron@armadalecellars.com.au,Tier 4 - Nurture
+Aaron Smith,Aaron,Smith,Administration & It Officer,Individual Contributor / Other,matthews.net.au,Fuel Retailing,Australia,info@matthews.net.au,Tier 4 - Nurture
+Aaron Souder,Aaron,Souder,Courier,Individual Contributor / Other,msn.com,Package/Freight Delivery,Australia,aaronmn@msn.com,Tier 4 - Nurture
+Aaron Sussex,Aaron,Sussex,"Director, Field Operations, Western Region",Executive / C-Suite,jti.com,Tobacco,Canada,aaron.sussex@jti.com,Tier 1 - High Priority
+Aaron Swinford,Aaron,Swinford,Field Sales Account Manager,Managerial,phs.co.uk,Military,United Kingdom,aaronswinford@phs.co.uk,Tier 3 - Low Priority
+Aaron Taffet,Aaron,Taffet,Investor,Individual Contributor / Other,halleyvp.com,"Cannabis,Medical Device",United States,aaron@halleyvp.com,Tier 4 - Nurture
+Aaron Takizad,Aaron,Takizad,"National Coordinator, Digital Organising And Innovation",Individual Contributor / Other,alliance.org.au,E-Learning,Australia,aaron.takizad@alliance.org.au,Tier 4 - Nurture
+Aaron Vo,Aaron,Vo,Digital Marketing Manager,Managerial,catchybeauty.com,Program Development,Canada,aaron@catchybeauty.com,Tier 3 - Low Priority
+Aaron Ward,Aaron,Ward,National Contracts And Delivery Manager,Managerial,justcuts.com,Consumer Services,Australia,aaron@justcuts.com,Tier 3 - Low Priority
+Aaron Wareham,Aaron,Wareham,Parts Manager,Managerial,rockinghamnissan.com.au,Car Retailing,Australia,aaronw@rockinghamnissan.com.au,Tier 3 - Low Priority
+Aaron Welch,Aaron,Welch,"Director Of Raw Material Procurement And Sales, Wood Products",Executive / C-Suite,weyerhaeuser.com,Paper & Forest Products,United States,aaron.welch@weyerhaeuser.com,Tier 1 - High Priority
+Aarset Conor,Aarset,Conor,Facilities Manager,Managerial,coresite.com,Custom Software & Technical Consulting,United States,conor.aarset@coresite.com,Tier 3 - Low Priority
+Aart Rupert,Aart,Rupert,Chief Information Officer (Cio),Executive / C-Suite,damen.com,Shipbuilding,United States,aart.rupert@damen.com,Tier 1 - High Priority
+Aaryn Pure,Aaryn,Pure,Regional Vice President Of Sales,Executive / C-Suite,livongo.com,"Health, Wellness & Fitness",United States,apure@livongo.com,Tier 1 - High Priority
+Aashna Sachdeva,Aashna,Sachdeva,Administrative Accounting Assistant,Individual Contributor / Other,allfect.com.au,Advertising Services,Australia,aashna@allfect.com.au,Tier 4 - Nurture
+Aasif Manjra,Aasif,Manjra,Senior Car Pound Manager,Managerial,met.police.uk,Law Enforcement,United Kingdom,aasif.manjra@met.police.uk,Tier 3 - Low Priority
+Aastha Hora,Aastha,Hora,Court Officer,Individual Contributor / Other,fedcourt.gov.au,Judiciary,Australia,aastha.hora@fedcourt.gov.au,Tier 4 - Nurture
+Aawez Bhatti,Aawez,Bhatti,Independent Business Owner,Executive / C-Suite,bananarepublic.com,Wireless,Canada,aawez_bhatti@bananarepublic.com,Tier 1 - High Priority
+Abarca Jose,Abarca,Jose,National Account Manager,Managerial,pepsico.com,"Food, Beverages & Tobacco",United States,jose.abarca@pepsico.com,Tier 3 - Low Priority
+Abate Gaylene,Abate,Gaylene,Ocean Exp Manager,Managerial,chrobinson.com,Transportation,United States,gaylene.abate@chrobinson.com,Tier 3 - Low Priority
+Abate Joanne,Abate,Joanne,"Diretor, Health And Wellness Strategy",Individual Contributor / Other,delhaize.com,Unknown,United States,joanne.abate@delhaize.com,Tier 4 - Nurture
+Abaunza Justine,Abaunza,Justine,"Manager, Engineering",Managerial,lamresearch.com,Electronics,United States,justine.abaunza@lamresearch.com,Tier 3 - Low Priority
+Abbascia Cheryl,Abbascia,Cheryl,"Supervisor , Financial Data Processing",Managerial,umassmemorial.org,Healthcare,United States,cheryl.abbascia@umassmemorial.org,Tier 3 - Low Priority
+Abbe Rees,Abbe,Rees,Business Marketing Coordinator,Individual Contributor / Other,stonebarn.com.au,"Pubs, Taverns And Bars",Australia,abbe@stonebarn.com.au,Tier 4 - Nurture
+Abbey Quinn,Abbey,Quinn,Assistant Operations Manager,Managerial,aot.com.au,Other Livestock Farming N.E.C.,Australia,abbey.quinn@aot.com.au,Tier 3 - Low Priority
+Abbi Meenakshi,Abbi,Meenakshi,Manager Of Sponsored Projects,Managerial,rockpa.org,Organizations,United States,mabbi@rockpa.org,Tier 3 - Low Priority
+Abbie Fielding,Abbie,Fielding,Practice Manager And Executive Assistant To Myles Baldwin,Managerial,mylesbaldwin.com,Garden Supplies Retailing,Australia,abbie@mylesbaldwin.com,Tier 3 - Low Priority
+Abbie Schmidt,Abbie,Schmidt,"Manager, Business",Managerial,machjetinternational.com.au,Road Freight Transport,Australia,abbie@machjetinternational.com.au,Tier 3 - Low Priority
+Abbott Jon,Abbott,Jon,Purchasing Manager,Managerial,bluestormtech.com,Software Development & Design,United States,jabbott@bluestormtech.com,Tier 3 - Low Priority
+Abbott Lori,Abbott,Lori,Director Of Sales And Marketing - 11 Years,Executive / C-Suite,5sqc.com,Unknown,United States,ljabbott@5sqc.com,Tier 1 - High Priority
+Abby Breakwell,Abby,Breakwell,Chief Executive Officer / Managing Director,Executive / C-Suite,digitalgarden.com.au,Internet Service Providers And Web Search Portals,Australia,abby.breakwell@digitalgarden.com.au,Tier 1 - High Priority
+Abby Copilevitz,Abby,Copilevitz,Rental Coordinator,Individual Contributor / Other,jccdenver.org,Civic & Social Organization,Australia,acopilevitz@jccdenver.org,Tier 4 - Nurture
+Abby Fortune,Abby,Fortune,Director Of Recreation,Executive / C-Suite,ucluelet.ca,Recreational Facilities And Services,Canada,afortune@ucluelet.ca,Tier 1 - High Priority
+Abby Galvin,Abby,Galvin,Associate Casting Director,Executive / C-Suite,jessicaronane.com,Performing Arts,United Kingdom,abby@jessicaronane.com,Tier 1 - High Priority
+Abby Holzer,Abby,Holzer,"Associate Director, Strategic Initiatives",Executive / C-Suite,chicagobooth.edu,Museums And Institutions,United Kingdom,aholzer@chicagobooth.edu,Tier 1 - High Priority
+Abby Popely,Abby,Popely,Human Resources Officer,Individual Contributor / Other,pocklingtonschool.com,Political Organization,United Kingdom,popelya@pocklingtonschool.com,Tier 4 - Nurture
+Abby Stephens,Abby,Stephens,"Manager, Business & Operations",Managerial,tnt.org.au,Local Government Administration,Australia,abby@tnt.org.au,Tier 3 - Low Priority
+Abd Razak,Abd,Razak,Kantor,Individual Contributor / Other,keturah.com.au,Catering Services,Australia,abd@keturah.com.au,Tier 4 - Nurture
+Abdelmalek Kanit,Abdelmalek,Kanit,North West Africa General Manager,Managerial,sgs.com,International Trade And Development,Canada,abdelmalek_kanit@sgs.com,Tier 3 - Low Priority
+Abdelrahman Elsayed,Abdelrahman,Elsayed,Postdoctoral Research Fellow,Executive / C-Suite,stjude.org,Fund-Raising,United States,abdelrahman.elsayed@stjude.org,Tier 1 - High Priority
+Abdennour Christiane,Abdennour,Christiane,Senior Group Sales Manager,Managerial,sheratonuniversal.com,Lodging & Resorts,United States,cabdennour@sheratonuniversal.com,Tier 3 - Low Priority
+Abdul Mateen,Abdul,Mateen,"Vice President, Operations",Executive / C-Suite,aldrichcap.com,Pe/Buyout,United States,amateen@aldrichcap.com,Tier 1 - High Priority
+Abdul Rasheed,Abdul,Rasheed,Sales Manager - Exports,Managerial,ti-films.com,Plastics,India,abdul.rasheed@ti-films.com,Tier 3 - Low Priority
+Abdulaziz Sagha,Abdulaziz,Sagha,Co-Founder And Managing Partner,Executive / C-Suite,oryxventures.com,Venture Capital & Private Equity,United Kingdom,abdulaziz@oryxventures.com,Tier 1 - High Priority
+Abdulaziz Salman,Abdulaziz,Salman,Director - Global Markets Sales,Executive / C-Suite,nbad.ae,Luxury Goods & Jewelry,Australia,abdulaziz.salman@nbad.ae,Tier 1 - High Priority
+Abdulla Ahmed,Abdulla,Ahmed,Head,Director Level,mof.gov.bh,Nanotechnology,United Kingdom,ashehab@mof.gov.bh,Tier 2 - Medium Priority
+Abdullah Zaynab,Abdullah,Zaynab,Technical Support Special Projects Manager,Managerial,etq.com,Software,United States,zabdullah@etq.com,Tier 3 - Low Priority
+Abejuela Maria,Abejuela,Maria,"Associate Marketing Manager , Sports Marketing",Managerial,aaa-calif.com,Membership Organizations,United States,abejuela.maria@aaa-calif.com,Tier 3 - Low Priority
+Abel John,Abel,John,Bridge Program Manager,Managerial,ncdot.gov,Unknown,United States,jabel@ncdot.gov,Tier 3 - Low Priority
+Abel Mine,Abel,Mine,Purchasing Support Officer,Individual Contributor / Other,doncoal.com.au,Iron Ore Mining,Australia,abel@doncoal.com.au,Tier 4 - Nurture
+Abeyta Steve,Abeyta,Steve,Electric Meter Operations Supervisor,Managerial,semprautilities.com,"Energy, Utilities & Waste Treatment",United States,sabeyta@semprautilities.com,Tier 3 - Low Priority
+Abhas Garnaik,Abhas,Garnaik,Senior 3D Artist,Individual Contributor / Other,lakshyadigital.com,Computer Games,India,abhas.garnaik@lakshyadigital.com,Tier 4 - Nurture
+Abhas Kumar,Abhas,Kumar,Executive Director At Poysha Packaging,Executive / C-Suite,poyshapackaging.com,Packaging And Containers,India,abhas.kumar@poyshapackaging.com,Tier 1 - High Priority
+Abhijeet Parihar,Abhijeet,Parihar,Senior Business Technical Analyst,Individual Contributor / Other,nvidia.com,Computer Hardware,India,aparihar@nvidia.com,Tier 4 - Nurture
+Abhijit Vengurlekar,Abhijit,Vengurlekar,Assistant Manager In Bse Institute Ltd,Managerial,bseindia.com,Capital Markets,India,certhelp@bseindia.com,Tier 3 - Low Priority
+Abhimanyu Saxena,Abhimanyu,Saxena,"National Program Manager, Vaccine Logistics And Cold-Chain Management",Managerial,undp.org,International Affairs,India,abhimanyu.saxena@undp.org,Tier 3 - Low Priority
+Abhishek Choudhary,Abhishek,Choudhary,Performance Analyst,Individual Contributor / Other,westernpower.com.au,Electricity Distribution,Australia,abhishek.choudhary@westernpower.com.au,Tier 4 - Nurture
+Abhishek Nandan,Abhishek,Nandan,Senior Merchandiser,Individual Contributor / Other,adidas.com,Sporting Goods,India,abhishek.nandan@adidas.com,Tier 4 - Nurture
+Abi Tolushe,Abi,Tolushe,Senior It And Management Consultant,Individual Contributor / Other,cihi.ca,Government Relations,Canada,atolushe@cihi.ca,Tier 4 - Nurture
+Abigail Cutler,Abigail,Cutler,Franchise Owner,Executive / C-Suite,gpworldwide.com,Arts And Crafts,United Kingdom,acutler@gpworldwide.com,Tier 1 - High Priority
+Abood Ron,Abood,Ron,"Supervisor, Tmktg",Managerial,cox.com,Telephony & Wireless,United States,ron.abood@cox.com,Tier 3 - Low Priority
+Abrahamian David,Abrahamian,David,"Director, Space Systems",Executive / C-Suite,viasat.com,Telecommunication Equipment,United States,david.abrahamian@viasat.com,Tier 1 - High Priority
+Abrahamsen Eric,Abrahamsen,Eric,Project Manager And Civil Engineer,Managerial,ppeng.com,"Architecture, Engineering & Design",United States,eabrahamsen@ppeng.com,Tier 3 - Low Priority
+Abrahamsen Martha,Abrahamsen,Martha,Research Project Manager Senior,Managerial,moffitt.org,Unknown,United States,martha.abrahamsen@moffitt.org,Tier 3 - Low Priority
+Abrameit Julia,Abrameit,Julia,Director Clinical Services Medical And Surgical And  Telemetry,Executive / C-Suite,resolutehealth.com,Recreation,United States,julia.abrameit@resolutehealth.com,Tier 1 - High Priority
+Abreu Neil,Abreu,Neil,Construction Superviser,Individual Contributor / Other,mfreynolds.com,Commercial & Residential Construction,United States,nabreu@mfreynolds.com,Tier 4 - Nurture
+Abubakar Alia,Abubakar,Alia,Community Engagement Manager,Managerial,urbanedge.org,Charitable Organizations & Foundations,United States,aabubakar@urbanedge.org,Tier 3 - Low Priority
+Abukhalaf Jackie,Abukhalaf,Jackie,Manager Of Business Development And Communication,Managerial,asaspares.com,Unknown,United States,jackiea@asaspares.com,Tier 3 - Low Priority
+Acar Zafer,Acar,Zafer,Chief Information Officer And Information Technology Manager,Executive / C-Suite,americanbullion.com,Metals & Mining,United States,acar@americanbullion.com,Tier 1 - High Priority
+Accuntius Jennie,Accuntius,Jennie,Managers And Supervisor,Managerial,tippvet.com,Unknown,United States,jaccuntius@tippvet.com,Tier 3 - Low Priority
+Acevedo Terri,Acevedo,Terri,Programming Manager,Managerial,news10.net,Broadcasting,United States,tacevedo@news10.net,Tier 3 - Low Priority
+Aceves Alejandra,Aceves,Alejandra,Box Office Supervisor,Managerial,grammymuseum.org,Cultural,United States,boxoffice@grammymuseum.org,Tier 3 - Low Priority
+Aceves Freddy,Aceves,Freddy,Product Engineering Manager,Managerial,bisearch.com,Retail Software,United States,faceves@bisearch.com,Tier 3 - Low Priority
+Acharya Ram,Acharya,Ram,"Manager, Business Intelligence",Managerial,martinmarietta.com,Unknown,United States,ram.acharya@martinmarietta.com,Tier 3 - Low Priority
+Achenbach Mark,Achenbach,Mark,District Sales Manager,Managerial,sagepub.com,Media & Internet,United States,mark.achenbach@sagepub.com,Tier 3 - Low Priority
+Acosta Gustavo,Acosta,Gustavo,Export Sales Manager,Managerial,hmclause.com,Agriculture,United States,gustavo.acosta@hmclause.com,Tier 3 - Low Priority
+Acu?Ã‘a Robert,Acu?Ã‘a,Robert,"Category Manager , Purchasing",Managerial,dunnedwards.com,"Chemicals, Petrochemicals, Glass & Gases",United States,robert.acuna@dunnedwards.com,Tier 3 - Low Priority
+Ada Chan,Ada,Chan,Collections Manager,Managerial,greatwarcentre.com,Libraries,Canada,ada@greatwarcentre.com,Tier 3 - Low Priority
+Adam Blackshaw,Adam,Blackshaw,Manager Visitor Experience,Managerial,nfsa.gov.au,Motion Pictures And Film,Australia,adam.blackshaw@nfsa.gov.au,Tier 3 - Low Priority
+Adam Cartwright,Adam,Cartwright,N American Sales Head,Director Level,acelec.com.au,Electrical Services,Australia,adam.cartwright@acelec.com.au,Tier 2 - Medium Priority
+Adam Colwell,Adam,Colwell,"Managing Director, Adamcolwell Interactive",Executive / C-Suite,adamcolwell.com,Internet Publishing And Broadcasting,Australia,adam@adamcolwell.com,Tier 1 - High Priority
+Adam Croce,Adam,Croce,Bodyshop Manager,Managerial,coastalcollision.com.au,"Automotive Body, Paint And Interior Repair",Australia,adam@coastalcollision.com.au,Tier 3 - Low Priority
+Adam Currie,Adam,Currie,Quality Assurance Officer,Individual Contributor / Other,keppelprince.com.au,Engineering Design And Engineering Consulting Services,Australia,info@keppelprince.com.au,Tier 4 - Nurture
+Adam Danyleko,Adam,Danyleko,Director And Account Manager,Executive / C-Suite,corporatetraveller.ca,"Leisure, Travel, & Tourism",Canada,adam.danyleko@corporatetraveller.ca,Tier 1 - High Priority
+Adam Durkee,Adam,Durkee,Software Engineering Team Lead,Managerial,wisetechglobal.com,Religious Institutions,Australia,adam.durkee@wisetechglobal.com,Tier 3 - Low Priority
+Adam E. Fine,Adam,E. Fine,"Co-Founder, Chief Executive Officer & General Partner",Executive / C-Suite,windhamventures.com,Venture Capital,United States,afine@windhamventures.com,Tier 1 - High Priority
+Adam Ellwanger,Adam,Ellwanger,Senior Animator,Individual Contributor / Other,dawsoncollege.qc.ca,Animation,Canada,aellwanger@dawsoncollege.qc.ca,Tier 4 - Nurture
+Adam Gatt,Adam,Gatt,Automation Electrician,Individual Contributor / Other,austech.net.au,Other Electrical And Electronic Goods Retailing,Australia,agatt@austech.net.au,Tier 4 - Nurture
+Adam Genovese,Adam,Genovese,General Sales Manager,Managerial,genovese.com.au,Other Grocery Wholesaling,Australia,info@genovese.com.au,Tier 3 - Low Priority
+Adam Georgiou,Adam,Georgiou,Shipping Address,Individual Contributor / Other,lambengineering.com.au,Liquor Retailing,Australia,adam@lambengineering.com.au,Tier 4 - Nurture
+Adam Gordon,Adam,Gordon,Business Development & Operations Manager,Managerial,situ.com.au,Industrial And Agricultural Chemical Product Wholesaling,Australia,adam@situ.com.au,Tier 3 - Low Priority
+Adam Griffin,Adam,Griffin,Forensic Medical Officer,Individual Contributor / Other,forensicare.vic.gov.au,Mental Health Care,Australia,adam.griffin@forensicare.vic.gov.au,Tier 4 - Nurture
+Adam Hill,Adam,Hill,Assistant Warehouse Manager,Managerial,eastpenncanada.com,Warehousing,Canada,ahill@eastpenncanada.com,Tier 3 - Low Priority
+Adam Irina,Adam,Irina,Managing Director - Badotherm Romania,Executive / C-Suite,badotherm.com,Industrial Machinery & Equipment,United States,iadam@badotherm.com,Tier 1 - High Priority
+Adam Joubert,Adam,Joubert,Co Founder And Owner,Executive / C-Suite,expandfurniture.com,Furniture,Canada,adam@expandfurniture.com,Tier 1 - High Priority
+Adam Kiernan,Adam,Kiernan,Manager Education Development And E-Learning,Managerial,ranzco.edu,Primary Education,Australia,akiernan@ranzco.edu,Tier 3 - Low Priority
+Adam Lawton,Adam,Lawton,Technical Support,Individual Contributor / Other,ozbeanz.com,Wired Telecommunications Network Operations,Australia,adam@ozbeanz.com,Tier 4 - Nurture
+Adam Leake,Adam,Leake,"Non-Executive Director, Finance And Risk Committee",Executive / C-Suite,greeningaustralia.org.au,Landscape Construction Services,Australia,aleake@greeningaustralia.org.au,Tier 1 - High Priority
+Adam Leu,Adam,Leu,Design Engineer,Individual Contributor / Other,mckeeco.com.au,Commission-Based Wholesaling,Australia,adamleu@mckeeco.com.au,Tier 4 - Nurture
+Adam Levay,Adam,Levay,"Head Of Operations, Adam Levay Cfi",Director Level,bunburyflyingschool.com,Unclassified,Australia,adam.levay@bunburyflyingschool.com,Tier 2 - Medium Priority
+Adam Morris,Adam,Morris,Business Development Manager - Lobster,Managerial,clearwater.ca,Fishery,Canada,amorris@clearwater.ca,Tier 3 - Low Priority
+Adam Moulday,Adam,Moulday,Professional Kitchen Designer,Individual Contributor / Other,rochetkitchens.com.au,Non-Residential Building Construction,Australia,adam@rochetkitchens.com.au,Tier 4 - Nurture
+Adam Plas,Adam,Plas,National Repair Manager,Managerial,tytecrecycling.com,Management Advice And Related Consulting Services,Australia,adam@tytecrecycling.com,Tier 3 - Low Priority
+Adam Reilly,Adam,Reilly,Recruitment Consultant/Team Leader,Managerial,opalagedcare.com.au,Aged Care Residential Services,Australia,adam.reilly@opalagedcare.com.au,Tier 3 - Low Priority
+Adam Sargent,Adam,Sargent,B2 Licensed Aircraft Maintenance Engineer,Individual Contributor / Other,airaffairs.com.au,Aircraft Manufacturing And Repair Services,Australia,sales@airaffairs.com.au,Tier 4 - Nurture
+Adam Vogel,Adam,Vogel,Chief Science Officer,Executive / C-Suite,redenlab.com,Scientific Research Services,Australia,adam@redenlab.com,Tier 1 - High Priority
+Adam Willett,Adam,Willett,Adoption Manager,Managerial,health.sa.gov.au,Central Government Administration,Australia,adam.willett@health.sa.gov.au,Tier 3 - Low Priority
+Adamo Joe,Adamo,Joe,"Professor, Business Management",Individual Contributor / Other,cazenovia.edu,Colleges & Universities,United States,jadamo@cazenovia.edu,Tier 4 - Nurture
+Adams Al,Adams,Al,"Senior Manager, National Broker Sales, Foodservice",Managerial,hersheys.com,Unknown,United States,aadams@hersheys.com,Tier 3 - Low Priority
+Adams Amy,Adams,Amy,Operations Supervisor - New Accounts,Managerial,summitbrokerage.com,Unknown,United States,aadams@summitbrokerage.com,Tier 3 - Low Priority
+Adams Craig,Adams,Craig,Senior Police Officer,Individual Contributor / Other,lapd.lacity.org,"Cities, Towns & Municipalities",United States,31398@lapd.lacity.org,Tier 4 - Nurture
+Adams Danny,Adams,Danny,Manager Hydro-Electric Power Plant O&M,Managerial,krcd.org,"Electricity, Oil & Gas",United States,dadams@krcd.org,Tier 3 - Low Priority
+Adams Dawn,Adams,Dawn,Payroll Manager,Managerial,beallsinc.com,Unknown,United States,dawna@beallsinc.com,Tier 3 - Low Priority
+Adams Gail,Adams,Gail,Area Audit Manager,Managerial,lendlease.com,Unknown,United States,gail.adams@lendlease.com,Tier 3 - Low Priority
+Adams Javonte,Adams,Javonte,Global Commodity Manager,Managerial,bausch.com,Unknown,United States,supplierdiversity@bausch.com,Tier 3 - Low Priority
+Adams John,Adams,John,Manager Of Design And Construction,Managerial,hanesbrands.com,Unknown,United States,john.adams@hanesbrands.com,Tier 3 - Low Priority
+Adams Julie,Adams,Julie,Fulfillment Sales And Marketing Manager,Managerial,groupsalesinc.com,Unknown,United States,jadams@groupsalesinc.com,Tier 3 - Low Priority
+Adams Lee,Adams,Lee,"Senior Manager, System Development",Managerial,nasco.com,Unknown,United States,lee.adams@nasco.com,Tier 3 - Low Priority
+Adams Matt,Adams,Matt,Digital Media Manager,Managerial,clearchannel.com,Unknown,United States,mattadams@clearchannel.com,Tier 3 - Low Priority
+Adams Michelle,Adams,Michelle,Virginia Beach Showroom Manager,Managerial,trindco.com,Household Goods,United States,michelleadams@trindco.com,Tier 3 - Low Priority
+Adams Sarah,Adams,Sarah,Credentialing Supervisor,Managerial,medamerica.com,Hospitals & Clinics,United States,adamss@medamerica.com,Tier 3 - Low Priority
+Adams Susan,Adams,Susan,Education Manager,Managerial,nhptv.org,Unknown,United States,know@nhptv.org,Tier 3 - Low Priority
+Adekola Lamidi,Adekola,Lamidi,Make Director,Executive / C-Suite,frieslandcampina.com,Dairy,United Kingdom,adekola.lamidi@frieslandcampina.com,Tier 1 - High Priority
+Adele Corney,Adele,Corney,Admin & Accounts Manager,Managerial,grafico.com.au,Other Specialised Design Services,Australia,adele@grafico.com.au,Tier 3 - Low Priority
+Adele Gibbs,Adele,Gibbs,Research Administration Manager,Managerial,florey.edu.au,Human Pharmaceutical And Medicinal Product Manufacturing,Australia,adele.gibbs@florey.edu.au,Tier 3 - Low Priority
+Adem Asanovski,Adem,Asanovski,"Project Manager, Sales",Managerial,mnspraybooths.com.au,Other Machinery And Equipment Manufacturing N.E.C.,Australia,service@mnspraybooths.com.au,Tier 3 - Low Priority
+Adrian Dale,Adrian,Dale,It Support Officer,Individual Contributor / Other,hunterprimarycare.com.au,General Practice Medical Services,Australia,adale@hunterprimarycare.com.au,Tier 4 - Nurture
+Adrian East,Adrian,East,Call Centre Manager,Managerial,pmgroup.com.au,Other Telecommunications Network Operations,Australia,adrian.east@pmgroup.com.au,Tier 3 - Low Priority
+Adrian Fenty,Adrian,Fenty,Managing General Partner,Individual Contributor / Other,macventurecapital.com,"Human Computer Interaction,Hospital,Health Diagnostics,Medical Device,Wellness,Emergency Medicine,Personal Health",United States,adrian@macventurecapital.com,Tier 4 - Nurture
+Adrian Henley,Adrian,Henley,Labourer,Individual Contributor / Other,civform.com.au,Other Heavy And Civil Engineering Construction,Australia,cameron@civform.com.au,Tier 4 - Nurture
+Adrian Smythe,Adrian,Smythe,Fixed Operations Manager,Managerial,paccar.com,Motor Vehicle Manufacturing,Australia,adrian.smythe@paccar.com,Tier 3 - Low Priority
+Adrian Stoll,Adrian,Stoll,Group Retail Manager,Managerial,mckerrell.com.au,"Pharmaceutical, Cosmetic And Toiletry Goods Retailing",Australia,adrian@mckerrell.com.au,Tier 3 - Low Priority
+Adrian Yuaga,Adrian,Yuaga,"Operations Team Leader, Sales",Managerial,acquirebpo.com,Call Centre Operation,Australia,adrian.yuaga@acquirebpo.com,Tier 3 - Low Priority
+Adriana Bellissimo,Adriana,Bellissimo,Office Administration,Individual Contributor / Other,polyplas.com.au,Timber Wholesaling,Australia,adriana@polyplas.com.au,Tier 4 - Nurture
+Adriana Schroeder,Adriana,Schroeder,Customer Relations,Individual Contributor / Other,denyer.com.au,Professional And Scientific Goods Wholesaling,Australia,customerservice@denyer.com.au,Tier 4 - Nurture
+Adrienne Ellis,Adrienne,Ellis,Director And Senior Archaeologist,Executive / C-Suite,matrixarchaeology.com.au,Museum Operation,Australia,adrienne@matrixarchaeology.com.au,Tier 1 - High Priority
+Adrienne Sycamore,Adrienne,Sycamore,Partner And Client Services Director,Executive / C-Suite,linguistico.com.au,Translation And Localization,Australia,adrienne.sycamore@linguistico.com.au,Tier 1 - High Priority
+Adrienne Vannarsdall,Adrienne,Vannarsdall,Director Of Finance And Operations,Executive / C-Suite,rccf.com,Growth/Expansion,United States,avannarsdall@rccf.com,Tier 1 - High Priority
+Aftabizadeh Reza,Aftabizadeh,Reza,Managing Editor,Individual Contributor / Other,aftabi.com,Unknown,United States,reza@aftabi.com,Tier 4 - Nurture
+Agnes Barnicelli,Agnes,Barnicelli,Poradce Ceo,Executive / C-Suite,lidl.es,Supermarkets,United States,ba@lidl.es,Tier 1 - High Priority
+Aguilar Hilda,Aguilar,Hilda,"Senior Manager , Information Technology",Managerial,translead.com,Automobiles,United States,haguilar@translead.com,Tier 3 - Low Priority
+Ahad Kheirabadi,Ahad,Kheirabadi,"Senior Spatial, Spatial Information Services Administrator",Individual Contributor / Other,parks.vic.gov.au,Nature Reserves And Conservation Parks Operation,Australia,ahad.kheirabadi@parks.vic.gov.au,Tier 4 - Nurture
+Aherne Brian,Aherne,Brian,Senior Channel Partner Marketing Advisor,Individual Contributor / Other,dell.com,Unknown,United States,brian_aherne@dell.com,Tier 4 - Nurture
+Ahmad Butt,Ahmad,Butt,Ceo And Managing Partner,Executive / C-Suite,jetstoneam.com,"Robotics,Therapeutics",United Kingdom,ahmad.butt@jetstoneam.com,Tier 1 - High Priority
+Ahmed Aziz,Ahmed,Aziz,Mobile Network Technical Project Manager,Managerial,nokia.com,Computer And Computer Peripheral Retailing,Australia,ahmed.aziz@nokia.com,Tier 3 - Low Priority
+Ahmed Rawi,Ahmed,Rawi,Franchise Excellence Senior Manager,Managerial,roosterspiripiri.com,Restaurants,United Kingdom,ahmed@roosterspiripiri.com,Tier 3 - Low Priority
+Ahtasham Ali,Ahtasham,Ali,Engineering Manager At Cerner,Managerial,alstom.com,Railroad Manufacture,India,ahtasham.ali@alstom.com,Tier 3 - Low Priority
+Aidan King,Aidan,King,Co-Founder & Managing Partner,Executive / C-Suite,fh-partners.com,"Medical Device,Robotics,Clinical Trials",United States,aidan.king@fh-partners.com,Tier 1 - High Priority
+Aigner Shaun,Aigner,Shaun,Studio Manager,Managerial,dementi.com,Photography Studio,United States,shaun@dementi.com,Tier 3 - Low Priority
+Aimee Barling,Aimee,Barling,Surgical Nurse,Individual Contributor / Other,eastmalvernvet.com.au,Veterinary Services,Australia,aimee@eastmalvernvet.com.au,Tier 4 - Nurture
+Aimee Foster,Aimee,Foster,Groups Management Accountant,Individual Contributor / Other,brotherstsv.com.au,Clubs (Hospitality),Australia,reception@brotherstsv.com.au,Tier 4 - Nurture
+Aimee Johnston,Aimee,Johnston,Senior Project Officer (Community Nutrition),Individual Contributor / Other,qast.org.au,Child Care Services,Australia,aimee@qast.org.au,Tier 4 - Nurture
+Akalwadi Mahadev,Akalwadi,Mahadev,Manager-Engineering,Managerial,eaton.com,"Batteries, Power Storage Equipment & Generators",United States,mahadevakalwadi@eaton.com,Tier 3 - Low Priority
+Alabaster Brad,Alabaster,Brad,Senior Manager Construction,Managerial,suddenlink.com,Unknown,United States,brad.alabaster@suddenlink.com,Tier 3 - Low Priority
+Alain Azan,Alain,Azan,President And Managing Director Emeritus,Executive / C-Suite,sofinnova.com,"Therapeutics,Health Diagnostics,Biopharma",United States,alain@sofinnova.com,Tier 1 - High Priority
+Alaine Fourie,Alaine,Fourie,Victorian Metro And Regional Manager,Executive / C-Suite,thortechnologies.com.au,Other Electrical Equipment Manufacturing,Australia,info@thortechnologies.com.au,Tier 1 - High Priority
+Alan Crumbley,Alan,Crumbley,Compliance Inspections,Individual Contributor / Other,capres.com.au,Other Mining Support Services,Australia,admin@capres.com.au,Tier 4 - Nurture
+Alan Kosinski,Alan,Kosinski,Junior Project Engineer,Individual Contributor / Other,planesupport.com,Defence,Australia,alan@planesupport.com,Tier 4 - Nurture
+Alan Leung,Alan,Leung,Founder & Managing Director,Executive / C-Suite,aspiron.com.au,Office Administrative Services,Australia,alan.leung@aspiron.com.au,Tier 1 - High Priority
+Alan Mann,Alan,Mann,Shipping,Individual Contributor / Other,asiaworld.com.au,Other Water Transport Support Services,Australia,info@asiaworld.com.au,Tier 4 - Nurture
+Alan Marx,Alan,Marx,Senior Case Analyst,Individual Contributor / Other,matkowsky.ca,Writing And Editing,Canada,alan@matkowsky.ca,Tier 4 - Nurture
+Alan Moffatt,Alan,Moffatt,Stores Officer,Individual Contributor / Other,pdgroup.com.au,Site Preparation Services,Australia,alan@pdgroup.com.au,Tier 4 - Nurture
+Alan Moran,Alan,Moran,Authorised Representative,Individual Contributor / Other,austcover.com.au,General Insurance,Australia,alanmoran@austcover.com.au,Tier 4 - Nurture
+Alan Olivo,Alan,Olivo,Centre Manager,Managerial,charterhall.com.au,Supermarket And Grocery Stores,Australia,alan.olivo@charterhall.com.au,Tier 3 - Low Priority
+Alan Patricof,Alan,Patricof,Co-Founder And Chairman Emeritus,Executive / C-Suite,greycroft.com,"Wellness,Therapeutics,Home Health Care,Personal Health,Cannabis,Medical Device",United States,alan@greycroft.com,Tier 1 - High Priority
+Alan Rennison,Alan,Rennison,"Senior Program Officer, Global Development",Individual Contributor / Other,gatesfoundation.org,Philanthropy,United Kingdom,alan.rennison@gatesfoundation.org,Tier 4 - Nurture
+Alan Runting,Alan,Runting,Licensed Surveyor,Individual Contributor / Other,peninsulasurvey.com.au,Surveying And Mapping Services,Australia,alan@peninsulasurvey.com.au,Tier 4 - Nurture
+Alana Orth,Alana,Orth,Lovely Photographer,Individual Contributor / Other,sunlitstudios.com.au,Professional Photographic Services,Australia,alana@sunlitstudios.com.au,Tier 4 - Nurture
+Alaniz Suzanne,Alaniz,Suzanne,"Associate Director, Smb",Executive / C-Suite,verizonwireless.com,Unknown,United States,suzanne.alaniz@verizonwireless.com,Tier 1 - High Priority
+Alanna Foo,Alanna,Foo,Rental Account Manager,Managerial,timbermill.com.au,Furniture Retailing,Australia,rentals@timbermill.com.au,Tier 3 - Low Priority
+Albarran Sheryl,Albarran,Sheryl,Accounts Receivable And Order Entry Supervisor,Managerial,motorcarparts.com,Power Conversion & Protection Equipment,United States,salbarran@motorcarparts.com,Tier 3 - Low Priority
+Albaugh Dennis,Albaugh,Dennis,Vice President And Chief Geologist,Executive / C-Suite,geo-logix.com,Unknown,United States,dalbaugh@geo-logix.com,Tier 1 - High Priority
+Albert Bonnani,Albert,Bonnani,"Manager, Production & Workshop",Managerial,adua.com.au,Iron Smelting And Steel Manufacturing,Australia,albert@adua.com.au,Tier 3 - Low Priority
+Albert Francis,Albert,Francis,President And Founder And Chief Architect,Executive / C-Suite,facilis.com,Computer Equipment & Peripherals,United States,francis@facilis.com,Tier 1 - High Priority
+Alberti Corey,Alberti,Corey,Equipment Manager,Managerial,gardinerhockey.com,Unknown,United States,equipdir@gardinerhockey.com,Tier 3 - Low Priority
+Albertini Stephen,Albertini,Stephen,Regional Retail Manager (Florida And Puerto Rico),Managerial,oldcastle.com,Unknown,United States,steve.albertini@oldcastle.com,Tier 3 - Low Priority
+Albright Nellie,Albright,Nellie,"Manager , Content Marketing Planning",Managerial,llbean.com,Unknown,United States,nalbright@llbean.com,Tier 3 - Low Priority
+Alda Ngo,Alda,Ngo,Co-Owner And Co-Clinical Director,Executive / C-Suite,aldango.com,Alternative Medicine,Canada,alda@aldango.com,Tier 1 - High Priority
+Aldrich Michael,Aldrich,Michael,Information Technology And Management Information Systems Administrator,Individual Contributor / Other,spectrummarketing.com,Unknown,United States,mike@spectrummarketing.com,Tier 4 - Nurture
+Aldridge Jessica,Aldridge,Jessica,Sustainability Manager,Managerial,athensservices.com,"Waste Treatment, Environmental Services & Recycling",United States,jaldridge@athensservices.com,Tier 3 - Low Priority
+Alessandra Bellio,Alessandra,Bellio,Orthoptist,Individual Contributor / Other,hawthorneyeclinic.com.au,Specialist Medical Services,Australia,enquiries@hawthorneyeclinic.com.au,Tier 4 - Nurture
+Alex Cummins,Alex,Cummins,"Information Technology Manager, Delivery Engagement",Managerial,nab.com.au,Central Banking,Australia,alex.cummins@nab.com.au,Tier 3 - Low Priority
+Alex Lovelock,Alex,Lovelock,Brewer And Cellar Monkey,Individual Contributor / Other,hawkers.beer,Other Interest Group Services N.E.C.,Australia,alex@hawkers.beer,Tier 4 - Nurture
+Alex Maratos,Alex,Maratos,Exercise Physiologist,Individual Contributor / Other,morethanphysio.com.au,Sports And Physical Recreation Instruction,Australia,info@morethanphysio.com.au,Tier 4 - Nurture
+Alex Mitchell,Alex,Mitchell,Author Support Services,Individual Contributor / Other,authorsupportservices.com,Magazine And Other Periodical Publishing,Australia,alexmitchell@authorsupportservices.com,Tier 4 - Nurture
+Alex Mueller,Alex,Mueller,Audio Visual Operator/It Technician,Individual Contributor / Other,innovative.net.au,Video And Other Electronic Media Rental And Hiring,Australia,info@innovative.net.au,Tier 4 - Nurture
+Alex Rio,Alex,Rio,General Manager Manpak,Managerial,manpak.com.au,Packaging Services,Australia,alex@manpak.com.au,Tier 3 - Low Priority
+Alex Sharma,Alex,Sharma,Sales And Service Coordinator,Individual Contributor / Other,sydneyavspecialists.com.au,Music And Other Sound Recording Activities,Australia,alex@sydneyavspecialists.com.au,Tier 4 - Nurture
+Alex Veljancevski,Alex,Veljancevski,Lending Specialist,Individual Contributor / Other,eventusfinancial.com.au,Financial Asset Broking Services,Australia,info@eventusfinancial.com.au,Tier 4 - Nurture
+Alex You,Alex,You,All Rounder It/Telecommuniucation Field Service,Individual Contributor / Other,auswidecomms.com.au,Communication Equipment Manufacturing,Australia,sales@auswidecomms.com.au,Tier 4 - Nurture
+Alexander Elder,Alexander,Elder,Group Commercial Manager,Managerial,addcar.com.au,Other Construction Material Mining,Australia,enquiries@addcar.com.au,Tier 3 - Low Priority
+Alexander Frolov,Alexander,Frolov,Ceo And General Partner,Executive / C-Suite,targetglobal.vc,"Wellness,Emergency Medicine,Biopharma,Therapeutics,Clinical Trials,Health Diagnostics,Genetics,Bioinformatics,Medical Device,Personal Health",United Kingdom,afrolov@targetglobal.vc,Tier 1 - High Priority
+Alexander Volobuev,Alexander,Volobuev,Production Manager Of Commercial Electrolysers,Managerial,aiswater.com.au,Other Store-Based Retailing N.E.C.,Australia,alex@aiswater.com.au,Tier 3 - Low Priority
+Alexandre Cadieux,Alexandre,Cadieux,Director - Business To Business Marketing,Executive / C-Suite,techo-bloc.com,"Glass, Ceramics, & Concrete",Canada,alexandre.cadieux@techo-bloc.com,Tier 1 - High Priority
+Alfonso Cioni,Alfonso,Cioni,Pastry Chef,Individual Contributor / Other,mondonougat.com.au,Confectionery Manufacturing,Australia,alfonso@mondonougat.com.au,Tier 4 - Nurture
+Alfredo M. Ponce,Alfredo,M. Ponce,Corporate Logistics Manager,Managerial,bodum.com,Other Goods Wholesaling N.E.C.,Australia,alfredo.ponce@bodum.com,Tier 3 - Low Priority
+Ali Alex,Ali,Alex,"Pricing Manager Distributed Power Quality, Transactional Power Products",Managerial,eaton.com,Unknown,United States,alexali@eaton.com,Tier 3 - Low Priority
+Alise Merritt,Alise,Merritt,Sales & Wine Club Director,Executive / C-Suite,chasecellars.com,Wine & Spirits,United States,alise@chasecellars.com,Tier 1 - High Priority
+Alison Mckenzie,Alison,Mckenzie,Whs And Human Resources Coordinator,Individual Contributor / Other,steamatic.com.au,Building And Other Industrial Cleaning Services,Australia,amckenzie@steamatic.com.au,Tier 4 - Nurture
+Alison Polyik,Alison,Polyik,"General Manager, Partnerships And Corporate Affairs",Managerial,doxa.org.au,Other Social Assistance Services,Australia,apolyik@doxa.org.au,Tier 3 - Low Priority
+Allan D Vos,Allan,D Vos,Projects & General Manager,Managerial,sayfa.com.au,Clothing And Footwear Wholesaling,Australia,allan@sayfa.com.au,Tier 3 - Low Priority
+Allard Kristen,Allard,Kristen,Team Leader - Client Services,Managerial,windhamgroup.com,Unknown,United States,kallard@windhamgroup.com,Tier 3 - Low Priority
+Allen Carl,Allen,Carl,Management Specialist And Mtw Management Information Systems Coordinator,Individual Contributor / Other,kha.org,Unknown,United States,callen@kha.org,Tier 4 - Nurture
+Allie Jonathan,Allie,Jonathan,Revenue And Operations Financial Manager,Managerial,berryplastics.com,"Plastic, Packaging & Containers",United States,jonathanallie@berryplastics.com,Tier 3 - Low Priority
+Allison Marcus,Allison,Marcus,Management Information Systems,Individual Contributor / Other,brother.com,Personal Computers & Peripherals,United States,marcus.allison@brother.com,Tier 4 - Nurture
+Allison Peebles,Allison,Peebles,Claims Administrator,Individual Contributor / Other,hciltd.com.au,Auxiliary Insurance Services,Australia,allison.peebles@hciltd.com.au,Tier 4 - Nurture
+Allison Thacker,Allison,Thacker,President & Chief Investment Officer,Executive / C-Suite,rice.edu,Limited Partner,United States,athacker@rice.edu,Tier 1 - High Priority
+Allister Caird,Allister,Caird,Petroleum Geologist,Individual Contributor / Other,88energy.com,Petroleum Exploration,Australia,acaird@88energy.com,Tier 4 - Nurture
+Alok Mittal,Alok,Mittal,"Ceo, Co-Founder & Managing Director",Executive / C-Suite,indifi.com,"Home Health Care,Personal Health,Hospital,Wellness,Medical Device",India,amittal@indifi.com,Tier 1 - High Priority
+Altan Haksoz,Altan,Haksoz,"Member, Team",Individual Contributor / Other,oceangrovedental.com.au,Dental Services,Australia,info@oceangrovedental.com.au,Tier 4 - Nurture
+Altfeder Jeremy,Altfeder,Jeremy,Senior Client Management Consultant,Individual Contributor / Other,captrustadvisors.com,Unknown,United States,jeremy.altfeder@captrustadvisors.com,Tier 4 - Nurture
+Altimas Adam,Altimas,Adam,Manager - Information Risk Management,Managerial,tjx.com,Apparel & Accessories,United States,adam_altimas@tjx.com,Tier 3 - Low Priority
+Alvarez Ron,Alvarez,Ron,Sales And Operations Manager,Managerial,prodtrans.com,"Rail, Bus & Taxi",United States,ralvarez@prodtrans.com,Tier 3 - Low Priority
+Aly Forsyth,Aly,Forsyth,Wine & Sales Buyer,Individual Contributor / Other,oldbridge.com.au,Liquor And Tobacco Product Wholesaling,Australia,aly@oldbridge.com.au,Tier 4 - Nurture
+Alyse Blann,Alyse,Blann,It Technican,Individual Contributor / Other,stjamescollege.qld.edu.au,"Adult, Community And Other Education N.E.C.",Australia,alyse.blann@stjamescollege.qld.edu.au,Tier 4 - Nurture
+Alyssa Taylor,Alyssa,Taylor,Ceramic Engineer / General Manager,Managerial,taylorceramicengineering.com,Other Ceramic Product Manufacturing,Australia,alyssa@taylorceramicengineering.com,Tier 3 - Low Priority
+Amador Karen,Amador,Karen,"Director, Speaking Services",Executive / C-Suite,tablegroup.com,Human Resources & Staffing,United States,karen@tablegroup.com,Tier 1 - High Priority
+Amanda Best,Amanda,Best,Tae Trainer,Individual Contributor / Other,learnme.edu.au,Technical And Vocational Education And Training,Australia,amanda.best@learnme.edu.au,Tier 4 - Nurture
+Amanda Guile,Amanda,Guile,Spa Manager,Managerial,covespa.com.au,Hairdressing And Beauty Services,Australia,amanda@covespa.com.au,Tier 3 - Low Priority
+Amanda Locklear,Amanda,Locklear,Federal Sales Director,Executive / C-Suite,staples.com,Business Supplies & Equipment,United States,amanda.locklear@staples.com,Tier 1 - High Priority
+Amanda Mccarthy,Amanda,Mccarthy,Property Acquisitions Manager,Managerial,balancetherapy.com.au,Health And Fitness Centres And Gymnasia Operation,Australia,amanda@balancetherapy.com.au,Tier 3 - Low Priority
+Amanda Simmons,Amanda,Simmons,Communications & Event Manager,Managerial,nexuschurch.com.au,Religious Services,Australia,info@nexuschurch.com.au,Tier 3 - Low Priority
+Amarillas Julio,Amarillas,Julio,Cemetery Manager,Managerial,orccd.com,Religious Organizations,United States,j.amarillas@orccd.com,Tier 3 - Low Priority
+Amber Griffiths,Amber,Griffiths,Jobactive Consultant,Individual Contributor / Other,jobsaustralia.com.au,Labour Supply Services,Australia,enquiries@jobsaustralia.com.au,Tier 4 - Nurture
+Amico Brett,Amico,Brett,Quality And Compliance Manager,Managerial,amphenolpcd.com,Wire & Cable,United States,bamico@amphenolpcd.com,Tier 3 - Low Priority
+Amidon Allyson,Amidon,Allyson,Credentials Eval Supervisor,Managerial,cshs.org,Emergency Medical Transportation & Services,United States,allyson.amidon@cshs.org,Tier 3 - Low Priority
+Ammaar Mirza,Ammaar,Mirza,Information Security Analyst,Individual Contributor / Other,westpac.com.au,Alternative Dispute Resolution,Australia,ammaar.mirza@westpac.com.au,Tier 4 - Nurture
+Amy Burdett,Amy,Burdett,"Business Development Manager, Nsw",Managerial,specialtyfoods.com.au,"Fresh Meat, Fish And Poultry Retailing",Australia,enquiry@specialtyfoods.com.au,Tier 3 - Low Priority
+Amy Christoforou,Amy,Christoforou,Personal Assistant To Executive General Manager - Consumers,Managerial,bne.com.au,Airport Operations And Other Air Transport Support Services,Australia,amy.christoforou@bne.com.au,Tier 3 - Low Priority
+Amy Durand,Amy,Durand,Rdt Administrator,Individual Contributor / Other,epiroc.com,Machine Tool And Parts Manufacturing,Australia,amy.durand@epiroc.com,Tier 4 - Nurture
+Amy Eleftheriadis,Amy,Eleftheriadis,"Manager, Digital & Marketing",Managerial,purebaby.com.au,Other Residential Care Services,Australia,enquiries@purebaby.com.au,Tier 3 - Low Priority
+Amy Holzberger,Amy,Holzberger,Corporate And Leisure Travel Consultant,Individual Contributor / Other,newenglandtravel.com.au,Travel Agency And Tour Arrangement Services,Australia,amy@newenglandtravel.com.au,Tier 4 - Nurture
+Amy Leech,Amy,Leech,Events And Project Manager,Managerial,greenevent.com.au,Other Goods And Equipment Rental And Hiring N.E.C.,Australia,plants@greenevent.com.au,Tier 3 - Low Priority
+Amy Nicholas,Amy,Nicholas,National Key Accounts And Logistics Manager Anz,Managerial,syneron-candela.com,Medical And Surgical Equipment Manufacturing,Australia,amyn@syneron-candela.com,Tier 3 - Low Priority
+Amy Osuivan,Amy,Osuivan,"Marketing Coordinator , Receptionist & Oh&S Coordinator",Individual Contributor / Other,cunneen.com.au,Electric Lighting Equipment Manufacturing,Australia,amy@cunneen.com.au,Tier 4 - Nurture
+Amy Parker,Amy,Parker,Colour Selections Consultant,Individual Contributor / Other,snhomes.com.au,Other Hardware Goods Wholesaling,Australia,amy.parker@snhomes.com.au,Tier 4 - Nurture
+Anamitra Banerji,Anamitra,Banerji,"Managing Partner, Founder",Executive / C-Suite,afore.vc,"Robotics,Personal Health,Wellness",United States,anamitra@afore.vc,Tier 1 - High Priority
+Anderson Michelle,Anderson,Michelle,"Nurse Manager - Workforce , Leadership And Development",Managerial,health.nsw.gov.au,Unknown,Australia,michelle.anderson1@health.nsw.gov.au,Tier 3 - Low Priority
+Anderson Sean,Anderson,Sean,"Business Software Analyst, Software Engineer, Web Engineer, Marketing Manager And Graphic Designer",Managerial,datavirtue.com,Unknown,United States,seanka@datavirtue.com,Tier 3 - Low Priority
+Anderson Terry,Anderson,Terry,Casting Supervisor,Managerial,nucor-yamato.com,Metals & Minerals,United States,tanderson@nucor-yamato.com,Tier 3 - Low Priority
+Andrade Roger,Andrade,Roger,Evaluation Supervisor - Aquifer Protection,Managerial,edwardsaquifer.org,Water & Water Treatment,United States,randrade@edwardsaquifer.org,Tier 3 - Low Priority
+Andrea G. Short,Andrea,G. Short,"Executive Vice President, Treasurer & Chief Financial Officer",Executive / C-Suite,1stsource.com,Corporation,United States,andrea.short@1stsource.com,Tier 1 - High Priority
+Andreadis Dawn,Andreadis,Dawn,Recruiting Manager,Managerial,djj.com,Unknown,United States,dma@djj.com,Tier 3 - Low Priority
+Andress Justin,Andress,Justin,President - Woodfin Oil,Executive / C-Suite,woodfinoil.com,Unknown,United States,jandress@woodfinoil.com,Tier 1 - High Priority
+Andrew Boak,Andrew,Boak,Quality And Regulatory Manager,Managerial,uclan.ac.uk,Veterinary,United Kingdom,aboak@uclan.ac.uk,Tier 3 - Low Priority
+Andrew Caruana,Andrew,Caruana,Architects,Individual Contributor / Other,centralian.com.au,Iron And Steel Forging,Australia,andrew.caruana@centralian.com.au,Tier 4 - Nurture
+Andrew Chino,Andrew,Chino,"Sales Director, Australia C&I",Executive / C-Suite,nextracker.com,Environmental Services & Clean Energy,United States,achino@nextracker.com,Tier 1 - High Priority
+Andrew Guy,Andrew,Guy,Publishing & Marketing Manager,Managerial,woodslane.com.au,Newspaper And Book Retailing,Australia,info@woodslane.com.au,Tier 3 - Low Priority
+Andrew Havelberg,Andrew,Havelberg,Southern Region Account Manager,Managerial,digistor.com.au,Free-To-Air Television Broadcasting,Australia,andrewh@digistor.com.au,Tier 3 - Low Priority
+Andrew Hill,Andrew,Hill,Finishing/Quality Manager,Managerial,abmt.com.au,Clothing Retailing,Australia,ahill@abmt.com.au,Tier 3 - Low Priority
+Andrew Killen,Andrew,Killen,Director Of Sales & Marketing,Executive / C-Suite,adept.com.au,Customs Agency Services,Australia,andrew.killen@adept.com.au,Tier 1 - High Priority
+Andrew Life,Andrew,Life,Events,Individual Contributor / Other,andrewsmithlifeevents.com,Other Personal Services N.E.C.,Australia,andrew@andrewsmithlifeevents.com,Tier 4 - Nurture
+Andrew Mahoney,Andrew,Mahoney,"Manager, Product Development",Managerial,digitalinktechnologies.com.au,Paint And Coatings Manufacturing,Australia,andrew@digitalinktechnologies.com.au,Tier 3 - Low Priority
+Andrew Nettle,Andrew,Nettle,External Sales-Mining,Individual Contributor / Other,mtp.com.au,Pump And Compressor Manufacturing,Australia,anettle@mtp.com.au,Tier 4 - Nurture
+Andrew Raay,Andrew,Raay,"Manager, Maintenance",Managerial,vle.com.au,Other Agriculture And Fishing Support Services,Australia,office@vle.com.au,Tier 3 - Low Priority
+Andrew Roth,Andrew,Roth,Purchasing And Sales Manager,Managerial,atsa.com.au,"Other Professional, Scientific And Technical Services N.E.C.",Australia,andrew.roth@atsa.com.au,Tier 3 - Low Priority
+Andrew Ruffell,Andrew,Ruffell,Carpenter Installer,Individual Contributor / Other,michaelschiavello.com.au,Other Construction Services N.E.C.,Australia,andrew@michaelschiavello.com.au,Tier 4 - Nurture
+Andrew Watson,Andrew,Watson,Director Strategy And Environment,Executive / C-Suite,kmc.nsw.gov.au,Non-Residential Property Operators,Australia,kmc@kmc.nsw.gov.au,Tier 1 - High Priority
+Andrew Winter Salembier,Andrew,Winter Salembier,"Partner, Chief Compliance Officer & Chief Operating Officer",Executive / C-Suite,accoladepartners.com,Fund Of Funds,United States,andrew@accoladepartners.com,Tier 1 - High Priority
+Andrews Richard,Andrews,Richard,Captain And Paramedic,Individual Contributor / Other,gilfordnh.org,Unknown,United States,randrews@gilfordnh.org,Tier 4 - Nurture
+Andy Langham,Andy,Langham,It Manager Australia,Managerial,sulzer.com,Other Automotive Repair And Maintenance,Australia,andy.langham@sulzer.com,Tier 3 - Low Priority
+Aneasa Barnes,Aneasa,Barnes,Assisting Manager,Managerial,latitudegallery.com.au,Watch And Jewellery Retailing,Australia,info@latitudegallery.com.au,Tier 3 - Low Priority
+Angela Aicb,Angela,Aicb,Founder And Certified Bookkeeper,Executive / C-Suite,angelaproud.co.uk,Executive Office,United Kingdom,angela@angelaproud.co.uk,Tier 1 - High Priority
+Angela Jackson,Angela,Jackson,Co-Managing Director,Executive / C-Suite,portlandseedfund.com,"Therapeutics,Wellness,Robotics",United States,angela@portlandseedfund.com,Tier 1 - High Priority
+Angela Quinn,Angela,Quinn,Funeral Director And Celebrant,Executive / C-Suite,parkviewfunerals.com.au,"Funeral, Crematorium And Cemetery Services",Australia,info@parkviewfunerals.com.au,Tier 1 - High Priority
+Angela Rollins,Angela,Rollins,Director Of Sales And Special Events,Executive / C-Suite,dallasarboretum.org,Non-Profits & Non-Profit Services,United States,arollins@dallasarboretum.org,Tier 1 - High Priority
+Angelo Puglisi,Angelo,Puglisi,Owner And Vineyard Manager,Executive / C-Suite,ballandeanestate.com,Grape Growing,Australia,angelo@ballandeanestate.com,Tier 1 - High Priority
+Anita Cazzolato,Anita,Cazzolato,Finance & Administration,Individual Contributor / Other,angelospasta.com.au,"Cereal, Pasta And Baking Mix Manufacturing",Australia,orders@angelospasta.com.au,Tier 4 - Nurture
+Anita Dunbar,Anita,Dunbar,Qa Officer,Individual Contributor / Other,bindareebeef.com.au,Other Food Product Manufacturing N.E.C.,Australia,anita.dunbar@bindareebeef.com.au,Tier 4 - Nurture
+Anjali Singh,Anjali,Singh,Marketing And Admissions Coordinator,Individual Contributor / Other,sae.edu,Libraries And Archives,Australia,a.singh@sae.edu,Tier 4 - Nurture
+Ann Thompson,Ann,Thompson,Accopunt Manager,Managerial,emtekfurniture.com.au,Other Furniture Manufacturing,Australia,ann@emtekfurniture.com.au,Tier 3 - Low Priority
+Anna Bouvier,Anna,Bouvier,Executive Director And Creator Happy Body,Executive / C-Suite,physiocise.com.au,Physiotherapy Services,Australia,info@physiocise.com.au,Tier 1 - High Priority
+Anna Burns,Anna,Burns,Senior Writer,Individual Contributor / Other,crs.org,Legislative Office,United Kingdom,anna.burns@crs.org,Tier 4 - Nurture
+Anne Dcruz,Anne,Dcruz,Customer Service Manager - Branch,Managerial,hcf.com.au,Health Insurance,Australia,adcruz@hcf.com.au,Tier 3 - Low Priority
+Anne Dwane,Anne,Dwane,Co-Founder & Partner,Executive / C-Suite,villageglobal.vc,Medical Device,United States,anne@villageglobal.vc,Tier 1 - High Priority
+Anne Gauci,Anne,Gauci,"Fiannce & Accounting Manager, Hr Coordinator",Managerial,jacques.com.au,Other Electronic Equipment Manufacturing,Australia,agauci@jacques.com.au,Tier 3 - Low Priority
+Anne Gribbon,Anne,Gribbon,Position In Accounts Payable,Individual Contributor / Other,betaboard.com.au,Plaster Product Manufacturing,Australia,anne@betaboard.com.au,Tier 4 - Nurture
+Anne Tomlinson,Anne,Tomlinson,Principal Geophysicist,Individual Contributor / Other,sgc.com.au,Scientific Testing And Analysis Services,Australia,anne@sgc.com.au,Tier 4 - Nurture
+Anne-Maree Sutherland,Anne-Maree,Sutherland,Sales & Service Team Member,Individual Contributor / Other,alwayscool.com.au,Air Conditioning And Heating Services,Australia,anne@alwayscool.com.au,Tier 4 - Nurture
+Annmaree Jericho,Annmaree,Jericho,Function Manager,Managerial,warrnamboolbowls.com.au,Sports And Physical Recreation Clubs And Sports Professionals,Australia,inquiries@warrnamboolbowls.com.au,Tier 3 - Low Priority
+Anthea Shaw,Anthea,Shaw,Office Manager And Co-Owner,Executive / C-Suite,bunburybatteries.com.au,Motor Vehicle Parts Retailing,Australia,anthea@bunburybatteries.com.au,Tier 1 - High Priority
+Anthea Todd,Anthea,Todd,Doctor Of Chiropractic,Executive / C-Suite,toddclinics.com.au,Chiropractic And Osteopathic Services,Australia,sale@toddclinics.com.au,Tier 1 - High Priority
+Anthony Bandiera,Anthony,Bandiera,Major Events Business Manager,Managerial,msssecurity.com.au,Investigation And Security Services,Australia,anthony.bandiera@msssecurity.com.au,Tier 3 - Low Priority
+Anthony Danze,Anthony,Danze,"Manager, Sales & Architectural",Managerial,odinceramics.com.au,Tiling And Carpeting Services,Australia,anthonyd@odinceramics.com.au,Tier 3 - Low Priority
+Anthony Evnin,Anthony,Evnin,Partner Emeritus,Individual Contributor / Other,venrock.com,"Wellness,Medical Device,Hospital,Health Diagnostics,Personal Health,Robotics,Natural Language Processing,Diabetes",United States,aevnin@venrock.com,Tier 4 - Nurture
+Anthony White,Anthony,White,Victorian Operations Manager,Executive / C-Suite,stylustapes.com.au,Polymer Film And Sheet Packaging Material Manufacturing,Australia,sales@stylustapes.com.au,Tier 1 - High Priority
+Antonio Gracias,Antonio,Gracias,"Founder, Principal",Executive / C-Suite,valorep.com,"Biopharma,Personal Health,Hospital",United States,agracias@valorep.com,Tier 1 - High Priority
+Anu Hariharan,Anu,Hariharan,"Yc Continuity Fund, Partner",Individual Contributor / Other,ycombinator.com,"Biometrics,Biopharma,Medical Device,Wellness,Therapeutics,Robotics,Natural Language Processing,Health Diagnostics,Cannabis,Hospital,Neuroscience,Clinical Trials,Personal Health,Human Computer Interaction,Electronic Health Record (Ehr),Genetics,Bioinformatics,Home Health Care,Emergency Medicine,Alternative Medicine",United States,anu@ycombinator.com,Tier 4 - Nurture
+Apkar Ervan,Apkar,Ervan,Specializing In Custom Made Jewellery/Cooperate Pins,Individual Contributor / Other,aedesign.com.au,Jewellery And Silverware Manufacturing,Australia,apkar@aedesign.com.au,Tier 4 - Nurture
+Arai Joe,Arai,Joe,"Manager Of Quality Assurance, Sales And Marketing",Managerial,coldmountainmiso.com,Crops,United States,joearai@coldmountainmiso.com,Tier 3 - Low Priority
+Arash Sani,Arash,Sani,Portfolio Manager & Director,Executive / C-Suite,techcoastangels.com,Angel Group,United States,arash@techcoastangels.com,Tier 1 - High Priority
+Argo Leann,Argo,Leann,Contracted On-Site Travel Manager,Managerial,brycecorp.com,Pulp & Paper,United States,largo@brycecorp.com,Tier 3 - Low Priority
+Arian Ohadi,Arian,Ohadi,State Coordinator/Sales Director,Executive / C-Suite,adt.com,Security & Investigations,United States,aohadi@adt.com,Tier 1 - High Priority
+Ariel Moses,Ariel,Moses,Life Sciences Venture Capital,Individual Contributor / Other,agate-invest.com,Cannabis,United States,arielm@agate-invest.com,Tier 4 - Nurture
+Arizmendiz Mark,Arizmendiz,Mark,Mining Sales Manager,Managerial,caid.com,Mining,United States,marka@caid.com,Tier 3 - Low Priority
+Armstrong Glenn,Armstrong,Glenn,Vice President - Office Manager,Executive / C-Suite,urs.com,Unknown,United States,glenn.armstrong@urs.com,Tier 1 - High Priority
+Arnold Chad,Arnold,Chad,Business Manager And Finance Analyst,Managerial,ccmillwork.com,Lumber & Wood Production,United States,ccm@ccmillwork.com,Tier 3 - Low Priority
+Arnold Mary,Arnold,Mary,Channel Business Manager,Managerial,cree.com,Unknown,United States,marybeth_arnold@cree.com,Tier 3 - Low Priority
+Arnold Sammy,Arnold,Sammy,Eh&S Manager,Managerial,hexpol.com,Tires & Rubber,United States,sammy.arnold@hexpol.com,Tier 3 - Low Priority
+Arnold Summer,Arnold,Summer,"Managing Director , Service Teams",Executive / C-Suite,firstallied.com,Brokerage,United States,sarnold@firstallied.com,Tier 1 - High Priority
+Artemiou Teddy,Artemiou,Teddy,Procurement Operations Manager,Managerial,jmfamily.com,Unknown,United States,teddy.artemiou@jmfamily.com,Tier 3 - Low Priority
+Arthur Jerry,Arthur,Jerry,"Operations Manager, Food I",Managerial,sodexo.com,Facilities Management & Commercial Cleaning,United States,jerry.arthur@sodexo.com,Tier 3 - Low Priority
+Ash Aygun,Ash,Aygun,"Manager, National Sales & Projects",Managerial,pvcwindows.com.au,Architectural Aluminium Product Manufacturing,Australia,info@pvcwindows.com.au,Tier 3 - Low Priority
+Ashley Goldberg,Ashley,Goldberg,Director Of National Sales,Executive / C-Suite,ssgresume.com,Staffing & Recruiting,United States,ashley@ssgresume.com,Tier 1 - High Priority
+Ashman Robert,Ashman,Robert,National Sales Manager - Precision Products,Managerial,photofabrication.com,"Miscellaneous Building Materials - Flooring, Cabinets, Etc.",United States,rashman@photofabrication.com,Tier 3 - Low Priority
+Atkins Steven,Atkins,Steven,Buildings And Grounds Supervisor,Managerial,abc.virginia.gov,Accounting & Accounting Services,United States,steven.atkins@abc.virginia.gov,Tier 3 - Low Priority
+Austin Wanda,Austin,Wanda,Shipping And Receiving Manager,Managerial,altdesign.com,Animals & Livestock,United States,wanda@altdesign.com,Tier 3 - Low Priority
+Avila Henry,Avila,Henry,Corporate Loss Prevention Manager,Managerial,smartandfinal.com,Grocery,United States,henry.avila@smartandfinal.com,Tier 3 - Low Priority
+Azrina Iqbal,Azrina,Iqbal,Events Marketing And Operations,Individual Contributor / Other,flujo.com.au,Market Research And Statistical Services,Australia,azrina@flujo.com.au,Tier 4 - Nurture
+Baca Bobby,Baca,Bobby,Technical Management,Individual Contributor / Other,sandia.gov,Aerospace & Defense,United States,bgbaca@sandia.gov,Tier 4 - Nurture
+Baczewski Diana,Baczewski,Diana,Manager-Ap,Managerial,bodylogicmd.com,Unknown,United States,dbaczewski@bodylogicmd.com,Tier 3 - Low Priority
+Baeza Noelia,Baeza,Noelia,Criminal Vendor Manager,Managerial,sterlinginfosystems.com,Security Products & Services,United States,nbaeza@sterlinginfosystems.com,Tier 3 - Low Priority
+Bailey Trey,Bailey,Trey,Production Value Stream Manager,Managerial,continental-corporation.com,Motor Vehicle Dealers,United States,trey.bailey@continental-corporation.com,Tier 3 - Low Priority
+Baker Tim,Baker,Tim,Machine Room And Shipping Supervisor,Managerial,moceanla.com,Film/Video Production & Services,United States,timb@moceanla.com,Tier 3 - Low Priority
+Balch David,Balch,David,Fleet Supervisor,Managerial,fwwebb.com,Plumbing & Hvac Equipment,United States,david.balch@fwwebb.com,Tier 3 - Low Priority
+Ballentine Crystal,Ballentine,Crystal,Manufacturing Team Leader (Ind),Managerial,te.com,Unknown,United States,crystal.ballentine@te.com,Tier 3 - Low Priority
+Banky Heather,Banky,Heather,Ag Business Solutions Manager And Railroad Marketing Manager,Managerial,ussugar.com,Unknown,United States,hbanky@ussugar.com,Tier 3 - Low Priority
+Bannon Martin,Bannon,Martin,Manager Of Corporate Sales,Managerial,gpalb.com,Sports Teams & Leagues,United States,mbannon@gpalb.com,Tier 3 - Low Priority
+Barbera Russ,Barbera,Russ,News Assignment Manager,Managerial,wivb.com,Television Stations,United States,russ.barbera@wivb.com,Tier 3 - Low Priority
+Barger Kyle,Barger,Kyle,Vice President Construction Management Services,Executive / C-Suite,tpco.com,Unknown,United States,kyle.barger@tpco.com,Tier 1 - High Priority
+Barker Tami,Barker,Tami,Project Manager And Network Applications Engineer,Managerial,pps.k12.va.us,K-12 Schools,United States,tami.barker@pps.k12.va.us,Tier 3 - Low Priority
+Barrera Rebecca,Barrera,Rebecca,Visual Training Manager,Managerial,yankeecandle.com,"Cosmetics, Beauty Supply & Personal Care Products",United States,rbarrer@yankeecandle.com,Tier 3 - Low Priority
+Barron Susie,Barron,Susie,Agent And Director Of Operations,Executive / C-Suite,re-trans.com,Freight & Logistics Services,United States,sparnell@re-trans.com,Tier 1 - High Priority
+Barry Pickett,Barry,Pickett,Warehouse Administrator,Individual Contributor / Other,midcoastair.com.au,Other Electrical And Electronic Goods Wholesaling,Australia,barry@midcoastair.com.au,Tier 4 - Nurture
+Bartik Sharon,Bartik,Sharon,Paralegal Manager,Managerial,maggio-kattar.com,Unknown,United States,sbartik@maggio-kattar.com,Tier 3 - Low Priority
+Bassett Bryan,Bassett,Bryan,General Partner - Owner,Executive / C-Suite,northwestdata.com,Consumer Electronics & Computers,United States,bryan@northwestdata.com,Tier 1 - High Priority
+Bauer Sherri,Bauer,Sherri,Claims Technical Supervisor,Managerial,capitoladm.com,Information & Document Management,United States,sbauer@capitoladm.com,Tier 3 - Low Priority
+Bean Jonathan,Bean,Jonathan,Se Territory Presentation Manager,Managerial,nike.com,Unknown,United States,jonathan.bean@nike.com,Tier 3 - Low Priority
+Beauvil Richard,Beauvil,Richard,Project Manager And Safety Officer,Managerial,emaxlabs.com,Medical Testing & Clinical Laboratories,United States,rbeauvil@emaxlabs.com,Tier 3 - Low Priority
+Belinda Vespignani,Belinda,Vespignani,Quality Operations Lead,Managerial,islandberriestasmania.com.au,Fruit And Vegetable Wholesaling,Australia,belinda@islandberriestasmania.com.au,Tier 3 - Low Priority
+Bell Kristi,Bell,Kristi,Supertots Manager,Managerial,lafleurstampa.com,Unknown,United States,supertots@lafleurstampa.com,Tier 3 - Low Priority
+Ben Dgiacoma,Ben,Dgiacoma,"Manager, National Merchandise",Managerial,officebarn.com.au,Stationery Goods Retailing,Australia,sales@officebarn.com.au,Tier 3 - Low Priority
+Ben Dollman,Ben,Dollman,Violinist,Individual Contributor / Other,brandenburg.com.au,Performing Arts Operation,Australia,bendollman@brandenburg.com.au,Tier 4 - Nurture
+Ben J. Basger,Ben,J. Basger,Clinical Pharmacist,Individual Contributor / Other,wolper.com.au,Hospitals (Except Psychiatric Hospitals),Australia,info@wolper.com.au,Tier 4 - Nurture
+Ben Johnston,Ben,Johnston,Agricultural And Construction Sales,Individual Contributor / Other,bunburymachinery.com.au,Agricultural Machinery And Equipment Manufacturing,Australia,ben@bunburymachinery.com.au,Tier 4 - Nurture
+Ben Rountree,Ben,Rountree,Pads And Protector,Executive / C-Suite,thevillagebmx.com,Other Repair And Maintenance N.E.C.,Australia,info@thevillagebmx.com,Tier 1 - High Priority
+Ben Stubbs,Ben,Stubbs,Construction Grp,Individual Contributor / Other,rtstraining.com.au,Pharmaceutical And Toiletry Goods Wholesaling,Australia,ben@rtstraining.com.au,Tier 4 - Nurture
+Ben Westall,Ben,Westall,Business Mgr,Individual Contributor / Other,candida.com.au,Paper Stationery Manufacturing,Australia,ben.westall@candida.com.au,Tier 4 - Nurture
+Bencosme Ernesto,Bencosme,Ernesto,Collection Supervisor,Managerial,fhcann.com,Debt Collection,United States,ebencosme@fhcann.com,Tier 3 - Low Priority
+Benjamin Molloy,Benjamin,Molloy,"Storemen, Driver, Bushorders",Individual Contributor / Other,smimac.com.au,Cheese And Other Dairy Product Manufacturing,Australia,benjamin@smimac.com.au,Tier 4 - Nurture
+Bennett Candice,Bennett,Candice,Travel And Events Coordinator,Individual Contributor / Other,instructionalaccess.com,Training,United States,candiceb@instructionalaccess.com,Tier 4 - Nurture
+Bertrand Diard,Bertrand,Diard,Co-Founder & Chairman,Executive / C-Suite,syro.co,Clinical Trials,United States,bertrand.diard@syro.co,Tier 1 - High Priority
+Bervig Kristi,Bervig,Kristi,Logistics And Fleet Manager,Managerial,chiefpetroleum.com,Oil & Gas Exploration & Services,United States,kristi@chiefpetroleum.com,Tier 3 - Low Priority
+Bharat Srinivasa,Bharat,Srinivasa,Corporate Advisor And Investor,Individual Contributor / Other,amplitudevc.com,"Genetics,Therapeutics,Bioinformatics,Biopharma",Canada,bharat.srinivasa@amplitudevc.com,Tier 4 - Nurture
+Biamonte Elaine,Biamonte,Elaine,Manager - Lease Administration,Managerial,americantower.com,Unknown,United States,elaine.biamonte@americantower.com,Tier 3 - Low Priority
+Bild Gary,Bild,Gary,Tech Support Manager,Managerial,sandicor.com,Search Engines & Internet Portals,United States,garyb@sandicor.com,Tier 3 - Low Priority
+Bill Ennals,Bill,Ennals,"Director, Truck Coordinator, Finance Officer, Business Development Officer, Information Technology C",Executive / C-Suite,reversegarbage.org.au,Solid Waste Collection Services,Australia,info@reversegarbage.org.au,Tier 1 - High Priority
+Bill Hernandez,Bill,Hernandez,Office Manager/Internal Sales/Estimator,Managerial,dexionhendra.com.au,Other Warehousing And Storage Services,Australia,bill.hernandez@dexionhendra.com.au,Tier 3 - Low Priority
+Bill Maglis,Bill,Maglis,"Manager, Qld Development",Managerial,qpams.com.au,Painting And Decorating Services,Australia,projects@qpams.com.au,Tier 3 - Low Priority
+Bill Mccullen,Bill,Mccullen,"Director, Boston",Executive / C-Suite,launchcapital.com,"Medical Device,Health Diagnostics,Wellness,Bioinformatics,Genetics",United States,bill@launchcapital.com,Tier 1 - High Priority
+Bishop Jill,Bishop,Jill,Research And Development Manager And Creative Photographer,Managerial,gourmetgiftbaskets.com,"Flowers, Gifts & Specialty",United States,jill@gourmetgiftbaskets.com,Tier 3 - Low Priority
+Blackburn Graciela,Blackburn,Graciela,Director Of Sales - Latin America,Executive / C-Suite,sourceecreative.com,Unknown,United States,graciela@sourceecreative.com,Tier 1 - High Priority
+Blaszka Michelle,Blaszka,Michelle,Line Development Manager,Managerial,tervis.com,Unknown,United States,mblaszka@tervis.com,Tier 3 - Low Priority
+Bob Meltzer,Bob,Meltzer,Sales Vp,Individual Contributor / Other,supplyone.com,Packaging & Containers,United States,bmeltzer@supplyone.com,Tier 4 - Nurture
+Bob Muxlow,Bob,Muxlow,Research And Development Engineer,Individual Contributor / Other,cleanawater.com.au,Sewerage And Drainage Services,Australia,info@cleanawater.com.au,Tier 4 - Nurture
+Boykin Jennifer,Boykin,Jennifer,Supervisor - Carecentrix Biling Center,Managerial,carecentrix.com,Unknown,United States,jennifer.boykin@carecentrix.com,Tier 3 - Low Priority
+Bradley Armstrong,Bradley,Armstrong,"Vp, Business Development & Corporate Development",Individual Contributor / Other,slack.com,Human Computer Interaction,United States,feedback@slack.com,Tier 4 - Nurture
+Brazie Morgan,Brazie,Morgan,Vice President Investment Management,Executive / C-Suite,westminsterfinancial.com,Unknown,United States,mpbrazie@westminsterfinancial.com,Tier 1 - High Priority
+Breaux Eric,Breaux,Eric,"Project Manager, P.L.S.",Managerial,avirom-survey.com,Unknown,United States,eric@avirom-survey.com,Tier 3 - Low Priority
+Brenda Herrera,Brenda,Herrera,"Manager, Sales & Events",Managerial,vagabond.com.au,Other Motor Vehicle And Transport Equipment Rental And Hiring,Australia,brenda@vagabond.com.au,Tier 3 - Low Priority
+Brendan Fiedler,Brendan,Fiedler,"Acting Manager, Engineering",Managerial,ac3.com.au,Data Processing And Web Hosting Services,Australia,brendan.fiedler@ac3.com.au,Tier 3 - Low Priority
+Brendan Hegarty,Brendan,Hegarty,Parts And Accessories Manager,Managerial,jaycoaw.com.au,Motor Vehicle Body And Trailer Manufacturing,Australia,brendan@jaycoaw.com.au,Tier 3 - Low Priority
+Brennan Dawn,Brennan,Dawn,Facilities Management And Services Division,Individual Contributor / Other,epa.gov,Unknown,United States,brennan.dawn@epa.gov,Tier 4 - Nurture
+Brent Clayton,Brent,Clayton,Stable Manager,Managerial,redgumracing.com.au,Horse Farming,Australia,brent@redgumracing.com.au,Tier 3 - Low Priority
+Brent Gutterson,Brent,Gutterson,Participation Programs Manager,Managerial,badmintonvic.com.au,"Sports And Physical Recreation Venues, Grounds And Facilities Operation",Australia,bg@badmintonvic.com.au,Tier 3 - Low Priority
+Brett Kruger,Brett,Kruger,Commercial Product Manager,Managerial,yourlaundry.com.au,"Electrical, Electronic And Gas Appliance Retailing",Australia,bkruger@yourlaundry.com.au,Tier 3 - Low Priority
+Brian Pais,Brian,Pais,Corporate Accounts Manager,Managerial,tollgroup.com,Air And Space Transport,Australia,brian.pais@tollgroup.com,Tier 3 - Low Priority
+Brian Whitney,Brian,Whitney,President & Board Member,Executive / C-Suite,mainetechnology.org,Not-For-Profit Venture Capital,United States,bwhitney@mainetechnology.org,Tier 1 - High Priority
+Brown Jeff,Brown,Jeff,Bi Development Manager,Managerial,resurgent.com,Unknown,United States,jbrown@resurgent.com,Tier 3 - Low Priority
+Bruce Booth,Bruce,Booth,Chairman Of The Board,Individual Contributor / Other,kymeratx.com,"Therapeutics,Medical Device,Biopharma,Health Diagnostics,Alternative Medicine,Genetics",United States,bruce@kymeratx.com,Tier 4 - Nurture
+Bruce Karsh,Bruce,Karsh,Co-Chairman And Chief Investment Officer,Executive / C-Suite,oaktreecapital.com,"Wellness,Medical Device",United States,bofficer@oaktreecapital.com,Tier 1 - High Priority
+Bruce P. Shaw,Bruce,P. Shaw,President & Publisher,Executive / C-Suite,thefoodloft.com,Corporate Venture Capital,United States,bruce@thefoodloft.com,Tier 1 - High Priority
+Bryant Joselyn,Bryant,Joselyn,Processing Manager And Loan Originator,Managerial,trynorthpoint.com,Unknown,United States,jbryant@trynorthpoint.com,Tier 3 - Low Priority
+Buckner Joan,Buckner,Joan,Group Vice President,Executive / C-Suite,legalshield.com,Law Firms & Legal Services,United States,joan@legalshield.com,Tier 1 - High Priority
+Caccamo Pat,Caccamo,Pat,Senior Director Of Business Development,Executive / C-Suite,ipromoteu.com,Commercial Printing,United States,pcaccamo@ipromoteu.com,Tier 1 - High Priority
+Cainon Coates,Cainon,Coates,Investor Relations Consultant,Individual Contributor / Other,castorventures.com,"Health Diagnostics,Robotics,Wellness,Medical Device",United States,cainon@castorventures.com,Tier 4 - Nurture
+Caitlin Wege,Caitlin,Wege,Ivestor In Growth Companies,Individual Contributor / Other,moodooslp.com,Hospital,United States,cwege@moodooslp.com,Tier 4 - Nurture
+Callari Stephen,Callari,Stephen,Office And Shop Manager,Managerial,dynamicsaw.com,Home Improvement & Hardware,United States,stephen@dynamicsaw.com,Tier 3 - Low Priority
+Cameron Fleming,Cameron,Fleming,Audio Consultant And Installer,Individual Contributor / Other,carltonaudiovisual.com.au,Domestic Appliance Repair And Maintenance,Australia,cameron@carltonaudiovisual.com.au,Tier 4 - Nurture
+Candice Timmerman,Candice,Timmerman,Event Coordinator And Sales Director,Executive / C-Suite,edgewoodnj.com,Recreational Facilities & Services,United States,ctimmerman@edgewoodnj.com,Tier 1 - High Priority
+Carl Ledbetter,Carl,Ledbetter,Special Partner,Individual Contributor / Other,pelionvp.com,Wellness,United States,carl@pelionvp.com,Tier 4 - Nurture
+Carol Chamberlain,Carol,Chamberlain,"Human Resources And Whs Administration, Website Maintenance Pa",Individual Contributor / Other,oilseeds.com.au,Oil And Fat Manufacturing,Australia,carol@oilseeds.com.au,Tier 4 - Nurture
+Caroline Stacey,Caroline,Stacey,Artistic Director/Ceo,Executive / C-Suite,thestreet.org.au,Motion Picture Exhibition,Australia,info@thestreet.org.au,Tier 1 - High Priority
+Carroll Connie,Carroll,Connie,Volunteer Program Manager,Managerial,ocalafl.org,Unknown,United States,ccarroll@ocalafl.org,Tier 3 - Low Priority
+Carter Katie,Carter,Katie,Medical Nurse Case Manager,Managerial,genexservices.com,Unknown,United States,katie.carter@genexservices.com,Tier 3 - Low Priority
+Carter Stan,Carter,Stan,"Manager, Electrical Engineering",Managerial,wilcoxind.com,Unknown,United States,stanc@wilcoxind.com,Tier 3 - Low Priority
+Castellanos Amador,Castellanos,Amador,Confirmation And Verifications Department Manager,Managerial,paymentsystemscorp.com,Credit Cards & Transaction Processing,United States,acastellanos@paymentsystemscorp.com,Tier 3 - Low Priority
+Castillo Todd,Castillo,Todd,Regional Operations Compliance Manager,Managerial,dencosales.com,"Aggregates, Concrete & Cement",United States,toddc@dencosales.com,Tier 3 - Low Priority
+Cath Kelly,Cath,Kelly,Hr & Office Administrator,Individual Contributor / Other,kellygroup.net.au,Roofing Services,Australia,cath@kellygroup.net.au,Tier 4 - Nurture
+Catherine Alcock,Catherine,Alcock,Customer Service Management,Individual Contributor / Other,polymers.com.au,Houseware Retailing,Australia,catherine.alcock@polymers.com.au,Tier 4 - Nurture
+Catherine Pomiecko,Catherine,Pomiecko,Project And Marketing Manager,Managerial,keystoneacoustics.com.au,Plastering And Ceiling Services,Australia,catherine@keystoneacoustics.com.au,Tier 3 - Low Priority
+Cerenzia Kim,Cerenzia,Kim,Fleet Parts Manager,Managerial,northsidecollision.com,Automobile Parts Stores,United States,kimc@northsidecollision.com,Tier 3 - Low Priority
+Chaitali Chatterjee,Chaitali,Chatterjee,Unit 9,Individual Contributor / Other,dtdcaustralia.com.au,Courier Pick-Up And Delivery Services,Australia,sales@dtdcaustralia.com.au,Tier 4 - Nurture
+Chapman Bailey,Chapman,Bailey,Art Service Professional,Individual Contributor / Other,chapmanbailey.com.au,"Creative Artists, Musicians, Writers And Performers",Australia,info@chapmanbailey.com.au,Tier 4 - Nurture
+Charlie Donnelly,Charlie,Donnelly,Procurement Commodity Specialist,Individual Contributor / Other,lucrf.com.au,Superannuation Funds,Australia,charlie.donnelly@lucrf.com.au,Tier 4 - Nurture
+Chen Liu,Chen,Liu,Senior Engineering Consultant,Individual Contributor / Other,mobilityengineering.com.au,Other Motor Vehicle Parts Manufacturing,Australia,chen@mobilityengineering.com.au,Tier 4 - Nurture
+Cherrie Cowley,Cherrie,Cowley,Engineering And Design Consultants,Individual Contributor / Other,lightharmony.com.au,Other Petroleum And Coal Product Manufacturing,Australia,cherrie@lightharmony.com.au,Tier 4 - Nurture
+Chevrette Chelsea,Chevrette,Chelsea,"Manager Of Operations , New England Region",Managerial,gdssigns.com,Unknown,United States,cchevrette@gdssigns.com,Tier 3 - Low Priority
+Chris Andraczke,Chris,Andraczke,"Manager, Quality Assurance",Managerial,pipingsolutions.com.au,Steel Pipe And Tube Manufacturing,Australia,admin@pipingsolutions.com.au,Tier 3 - Low Priority
+Chris Evdaimon,Chris,Evdaimon,Unlisted Equities,Individual Contributor / Other,bailliegifford.com,"Biopharma,Health Diagnostics,Home Health Care,Medical Device,Personal Health,Therapeutics,Bioinformatics,Clinical Trials",United States,chris.evdaimon@bailliegifford.com,Tier 4 - Nurture
+Chris Jung,Chris,Jung,Healthcare Growth Equity,Individual Contributor / Other,casaverdecapital.com,"Cannabis,Alternative Medicine,Wellness",United States,chris@casaverdecapital.com,Tier 4 - Nurture
+Chris Partridge,Chris,Partridge,Systems Administrator And Technical Advisor,Individual Contributor / Other,abbeyarchery.com.au,Sport And Camping Equipment Retailing,Australia,chris@abbeyarchery.com.au,Tier 4 - Nurture
+Christine Hinton,Christine,Hinton,Vp Marketing U.S.,Individual Contributor / Other,ggvc.com,"Robotics,Health Diagnostics,Medical Device,Personal Health,Wellness,Hospital,Natural Language Processing",United States,chinton@ggvc.com,Tier 4 - Nurture
+Christine Tsai 2Nd Degree Connection 2Nd,Christine,Tsai 2Nd Degree Connection 2Nd,Ceo And Founding Partner,Executive / C-Suite,500.co,"Robotics,Home Health Care,Wellness,Hospital,Health Diagnostics,Personal Health,Electronic Health Record (Ehr),Cannabis,Natural Language Processing,Medical Device,Human Computer Interaction,Biopharma,Clinical Trials,Genetics,Neuroscience,Bioinformatics",United States,christine@500.co,Tier 1 - High Priority
+Christopher Berexa,Christopher,Berexa,"Vp Sales Na, Industrial, Manufacturing & Automotive",Individual Contributor / Other,lionbridge.com,Translation & Localization,United States,christopher.berexa@lionbridge.com,Tier 4 - Nurture
+Church Chip,Church,Chip,"Senior Vice President, National Accounts Sales And Service",Executive / C-Suite,hillmangroup.com,Unknown,United States,chip.church@hillmangroup.com,Tier 1 - High Priority
+Clifford G. Viner,Clifford,G. Viner,"Co-Founder, Head Of Rates Trading, Principal & Co-Chief Investment Officer",Executive / C-Suite,avmltd.com,Hedge Fund,United States,clifford.viner@avmltd.com,Tier 1 - High Priority
+Clive Allsworth,Clive,Allsworth,Customer Service & Technical Support,Individual Contributor / Other,asta.net.au,Telecommunication Goods Wholesaling,Australia,clive@asta.net.au,Tier 4 - Nurture
+Cody Shirk,Cody,Shirk,"Angel Investor, President, Keiretsu Forum Socal, Founder / Ceo At Syndicated Resources",Executive / C-Suite,explorerequity.com,"Cannabis,Personal Health,Wellness",United States,cody@explorerequity.com,Tier 1 - High Priority
+Colin Maas,Colin,Maas,Quality,Individual Contributor / Other,sunsetcanvas.com.au,Prefabricated Wooden Building Manufacturing,Australia,colin@sunsetcanvas.com.au,Tier 4 - Nurture
+Collier Olivia,Collier,Olivia,Arc Program Manager,Managerial,nccommerce.com,Unknown,United States,ocollier@nccommerce.com,Tier 3 - Low Priority
+Collins Bill,Collins,Bill,National Group Sales Director,Executive / C-Suite,smpcorp.com,Unknown,United States,wcollins@smpcorp.com,Tier 1 - High Priority
+Cone Kevin,Cone,Kevin,Virginia District Manager,Managerial,colonytire.com,Automotive Service & Collision Repair,United States,kcone@colonytire.com,Tier 3 - Low Priority
+Connie Stimpson,Connie,Stimpson,"Regional Vice President Of Sales, Central",Executive / C-Suite,meduitrcm.com,Unknown,United States,connie.stimpson@meduitrcm.com,Tier 1 - High Priority
+Coral Scott,Coral,Scott,Lis Configuration Team Leader,Managerial,imvs.sa.gov.au,Pathology And Diagnostic Imaging Services,Australia,coral.scott@imvs.sa.gov.au,Tier 3 - Low Priority
+Courtney Muir,Courtney,Muir,Accessories And Warranty Manager,Managerial,burdekinmotorcycles.com.au,Motor Cycle Retailing,Australia,courtney@burdekinmotorcycles.com.au,Tier 3 - Low Priority
+Currie Richard,Currie,Richard,Installation And Scheduling Manager,Managerial,gwsurfaces.com,Department Stores & Superstores,United States,richardc@gwsurfaces.com,Tier 3 - Low Priority
+Cushman Michael,Cushman,Michael,Global Market Manager,Managerial,saint-gobain.com,Unknown,United States,michael.p.cushman@saint-gobain.com,Tier 3 - Low Priority
+Cyan Banister,Cyan,Banister,"Venture Partner, The Frontier",Individual Contributor / Other,longjourney.vc,"Therapeutics,Human Computer Interaction,Robotics,Biopharma,Clinical Trials,Wellness,Health Diagnostics,Personal Health,Medical Device,Genetics,Diabetes",United States,cyan@longjourney.vc,Tier 4 - Nurture
+Daetweiler Jeff,Daetweiler,Jeff,"Director , Sales Support",Executive / C-Suite,shieldhealthcare.com,Medical Devices & Equipment,United States,jdaetweiler@shieldhealthcare.com,Tier 1 - High Priority
+Damian Toohey,Damian,Toohey,General Manager - Strategy And Finance,Managerial,qenos.com,Synthetic Resin And Synthetic Rubber Manufacturing,Australia,customer.service@qenos.com,Tier 3 - Low Priority
+Damien Sheehan,Damien,Sheehan,General Manager And Viticulturist,Managerial,langi.com.au,Other Metal Ore Mining,Australia,dsheehan@langi.com.au,Tier 3 - Low Priority
+Damien Wescombe,Damien,Wescombe,Manager Of Beer Sales,Managerial,feralbrewing.com.au,Beer Manufacturing,Australia,beer@feralbrewing.com.au,Tier 3 - Low Priority
+Dan Bowers,Dan,Bowers,Editor And Videographer,Individual Contributor / Other,soularchmedia.com,Post-Production Services And Other Motion Picture And Video Activities,Australia,dan@soularchmedia.com,Tier 4 - Nurture
+Dan Hooper,Dan,Hooper,Factory/Production Manager,Executive / C-Suite,reglinrubber.com.au,Natural Rubber Product Manufacturing,Australia,dan@reglinrubber.com.au,Tier 1 - High Priority
+Daniel Akers,Daniel,Akers,Information Technology Administrator,Individual Contributor / Other,keppelprince.com.au,Lifting And Material Handling Equipment Manufacturing,Australia,daniel.akers@keppelprince.com.au,Tier 4 - Nurture
+Daniel Kearney,Daniel,Kearney,General Manager Of Sales,Managerial,redspot.com.au,Passenger Car Rental And Hiring,Australia,info@redspot.com.au,Tier 3 - Low Priority
+Daniel Slaviero,Daniel,Slaviero,Toolmaker,Individual Contributor / Other,australianlock.com.au,Other Fabricated Metal Product Manufacturing N.E.C.,Australia,daniels@australianlock.com.au,Tier 4 - Nurture
+Danielle Stephenson,Danielle,Stephenson,Business Administrator & Manager,Managerial,completemetal.com.au,Metal And Mineral Wholesaling,Australia,danielle@completemetal.com.au,Tier 3 - Low Priority
+Danny Draper,Danny,Draper,"Director, Principal Consulting Arboriculturist",Executive / C-Suite,utma.com.au,Gardening Services,Australia,admin@utma.com.au,Tier 1 - High Priority
+Darren Bozanich,Darren,Bozanich,"Division Manager, Engineering",Managerial,mjengineering.com.au,Marine Equipment Retailing,Australia,darren@mjengineering.com.au,Tier 3 - Low Priority
+Dave Vosper,Dave,Vosper,Engineer And Maintenance Supervisor,Managerial,birchandwaite.com.au,Meat Processing,Australia,dave.vosper@birchandwaite.com.au,Tier 3 - Low Priority
+David Aruba,David,Aruba,Cabinet Maker,Individual Contributor / Other,ccwcabinetworks.com.au,Wooden Furniture And Upholstered Seat Manufacturing,Australia,info@ccwcabinetworks.com.au,Tier 4 - Nurture
+David B. Blundin,David,B. Blundin,"Co-Founder, Chief Executive Officer & Chairman",Executive / C-Suite,linkventures.com,Vc-Backed Company,United States,dblundin@linkventures.com,Tier 1 - High Priority
+David Holbrook,David,Holbrook,Head Of Med Tech & Life Science Investing,Director Level,mtifirms.com,Health Diagnostics,United Kingdom,headoffice@mtifirms.com,Tier 2 - Medium Priority
+David Huntley,David,Huntley,"Hydraulic, Pneumatic And Engineering Supplies",Individual Contributor / Other,wellco.com.au,Other Specialised Industrial Machinery And Equipment Wholesaling,Australia,david@wellco.com.au,Tier 4 - Nurture
+David Keldie,David,Keldie,Operations Manager - Oil And Gas,Managerial,sunrice.com.au,Cereal Grain Wholesaling,Australia,dkeldie@sunrice.com.au,Tier 3 - Low Priority
+David Lebrocque,David,Lebrocque,Managaer,Individual Contributor / Other,ellisonhort.com.au,Nursery Production (Under Cover),Australia,david@ellisonhort.com.au,Tier 4 - Nurture
+David Magerman,David,Magerman,Managing Partner And Lead Technologist,Managerial,differential.vc,Natural Language Processing,United States,david@differential.vc,Tier 3 - Low Priority
+David Sze,David,Sze,General Partner And Co-Senior Managing Partner,Individual Contributor / Other,greylock.com,"Hospital,Health Diagnostics",United States,dsze@greylock.com,Tier 4 - Nurture
+David Vizer,David,Vizer,Consulting Arborist,Individual Contributor / Other,heritagetreecare.com.au,Logging,Australia,sales@heritagetreecare.com.au,Tier 4 - Nurture
+David Weiden,David,Weiden,Founding Partner & Managing Director,Executive / C-Suite,khoslaventures.com,"Therapeutics,Medical Device,Robotics,Biometrics,Biopharma,Health Diagnostics,Home Health Care,Genetics,Cannabis,Wellness,Hospital,Bioinformatics,Natural Language Processing,Clinical Trials,Personal Health,Alternative Medicine,Neuroscience,Diabetes",United States,david@khoslaventures.com,Tier 1 - High Priority
+Davis Heather,Davis,Heather,Associate Customer Support Manager,Managerial,babycenter.com,Information Collection & Delivery,United States,heather.davis@babycenter.com,Tier 3 - Low Priority
+Dayton T. Carr,Dayton,T. Carr,"Founder, President & Managing Director",Executive / C-Suite,vcfa.com,Secondary Buyer,United States,carr@vcfa.com,Tier 1 - High Priority
+Deanna Rood,Deanna,Rood,International Hr Business Partner,Individual Contributor / Other,bedbathntable.com.au,Textile Finishing And Other Textile Product Manufacturing,Australia,deanna.rood@bedbathntable.com.au,Tier 4 - Nurture
+Deborah Clarkson,Deborah,Clarkson,Function And Events Coordinator,Individual Contributor / Other,cranbourneturfclub.com.au,Horse And Dog Racing Administration And Track Operation,Australia,dclarkson@cranbourneturfclub.com.au,Tier 4 - Nurture
+Decker Pamela,Decker,Pamela,F And I Coordinator And Compliance Manager,Managerial,ride-away.com,Unknown,United States,pdecker@ride-away.com,Tier 3 - Low Priority
+Delgardo Peter,Delgardo,Peter,"Service Manager, Office Phone",Managerial,churchill-linen.com,Laundry & Dry Cleaning Services,United States,peter@churchill-linen.com,Tier 3 - Low Priority
+Dennis Jeff,Dennis,Jeff,Estimating And Design Manager,Managerial,lifesafetyfire.com,Unknown,United States,jeff@lifesafetyfire.com,Tier 3 - Low Priority
+Detruit Sal,Detruit,Sal,Business Development Director - Aerospace Pqt,Executive / C-Suite,element.com,Unknown,United States,sal.detruit@element.com,Tier 1 - High Priority
+Dormann Steve,Dormann,Steve,Web Managing Editor,Individual Contributor / Other,calchamber.com,Government,United States,steve.dormann@calchamber.com,Tier 4 - Nurture
+Dossel Cliff,Dossel,Cliff,Installations Manager And Registrar,Managerial,ncdcr.gov,Unknown,United States,cliff.dossel@ncdcr.gov,Tier 3 - Low Priority
+Ebbighausen Linda,Ebbighausen,Linda,Customer Service And Contracts Manager,Managerial,astronics.com,Unknown,United States,linda.ebbighausen@astronics.com,Tier 3 - Low Priority
+Eddie Caistor,Eddie,Caistor,Bussiness Owner,Executive / C-Suite,cafsite.com.au,Sheet Metal Product Manufacturing (Except Metal Structural And Container,Australia,eddie@cafsite.com.au,Tier 1 - High Priority
+Edward Tomlinson,Edward,Tomlinson,Chief Executive Officer And Winemaker,Executive / C-Suite,lentonbrae.com,Wine And Other Alcoholic Beverage Manufacturing,Australia,et@lentonbrae.com,Tier 1 - High Priority
+Edwin Kania,Edwin,Kania,Managing Partner & Co-Founder; Chairman Emeritus,Executive / C-Suite,flagshippioneering.com,"Therapeutics,Biopharma,Health Diagnostics",United States,ekania@flagshippioneering.com,Tier 1 - High Priority
+Eleni Bakopoulos,Eleni,Bakopoulos,Transportation/Trucking/Railroad,Individual Contributor / Other,phillipsskipbins.com.au,Other Transport Support Services N.E.C.,Australia,eleni@phillipsskipbins.com.au,Tier 4 - Nurture
+Ellis Debbie,Ellis,Debbie,"Senior Manager , Client Management",Managerial,nucompass.com,"Trucking, Moving & Storage",United States,dellis@nucompass.com,Tier 3 - Low Priority
+Engy Mahrous,Engy,Mahrous,Post Doctoral Trainee At St. Jude Children'S Research Hospital,Executive / C-Suite,stjude.org,Nonprofit Organization Management,United States,engy.mahrous@stjude.org,Tier 1 - High Priority
+Eric Chew,Eric,Chew,Cpa Financial Controller,Individual Contributor / Other,m2technology.com.au,Other Telecommunications Services,Australia,eric@m2technology.com.au,Tier 4 - Nurture
+Evelyn Golding,Evelyn,Golding,Ciaf General Manager,Managerial,arts.qld.gov.au,State Government Administration,Australia,evelyn.golding@arts.qld.gov.au,Tier 3 - Low Priority
+Eytan Feldman,Eytan,Feldman,"Managing Director, Partner, Chief Compliance Officer & Chief Operating Officer",Executive / C-Suite,oldcitycapital.com,Asset Manager,United States,eytan@oldcitycapital.com,Tier 1 - High Priority
+Fabian Morgan,Fabian,Morgan,"Sales And Marketing Director, Ardex",Executive / C-Suite,ardexaustralia.com,Other Basic Chemical Product Manufacturing N.E.C.,Australia,ardexfb@ardexaustralia.com,Tier 1 - High Priority
+Fainberg Michelle,Fainberg,Michelle,Cad Manager And Partner,Managerial,girouxglass.com,Glass & Clay,United States,mfainberg@girouxglass.com,Tier 3 - Low Priority
+Farris Anne,Farris,Anne,Operations Manager And Office Manager,Managerial,davidwendell.com,Unknown,United States,anne.farris@davidwendell.com,Tier 3 - Low Priority
+Felix Ryan,Felix,Ryan,Australian Operations Commercial Manager,Managerial,edl.com.au,On Selling Electricity And Electricity Market Operation,Australia,enquiries@edl.com.au,Tier 3 - Low Priority
+Flere Jennifer,Flere,Jennifer,Regional Marketing Manager - Midwest,Managerial,ritterim.com,Advertising & Marketing,United States,jennifer.flere@ritterim.com,Tier 3 - Low Priority
+Fletcher Stephen,Fletcher,Stephen,Director Of American Furniture And Decorative Arts,Executive / C-Suite,skinnerinc.com,Auctions,United States,sfletcher@skinnerinc.com,Tier 1 - High Priority
+Friese David,Friese,David,"Manager, Mechanical Engineering",Managerial,lgarde.com,Computer Storage Equipment,United States,david_friese@lgarde.com,Tier 3 - Low Priority
+Fritz Paragoso,Fritz,Paragoso,Administration And Scheduling,Individual Contributor / Other,economyglass.com.au,Hardware And Building Supplies Retailing,Australia,sales@economyglass.com.au,Tier 4 - Nurture
+Gabara Steve,Gabara,Steve,"Manager, Bus Services Cc",Managerial,wowinc.com,Cable & Satellite,United States,steven.gabara@wowinc.com,Tier 3 - Low Priority
+Gabe Stauber,Gabe,Stauber,"Associate Partner, Healthcare & Life Sciences At Instinctif Partners",Individual Contributor / Other,nvp.com,"Health Diagnostics,Biopharma,Hospital,Wellness,Clinical Trials,Medical Device,Robotics,Personal Health,Therapeutics",United States,gstauber@nvp.com,Tier 4 - Nurture
+Garry Vandepol,Garry,Vandepol,Work Shop Manager,Managerial,buttsworth.com.au,Gas Supply,Australia,sales@buttsworth.com.au,Tier 3 - Low Priority
+Gary Nugent,Gary,Nugent,Southeastern Sales Director,Executive / C-Suite,davidonindustries.com,International Trade & Development,United States,gnugent@davidonindustries.com,Tier 1 - High Priority
+Geoffrey Bevan,Geoffrey,Bevan,Major Accounts Sales Executive,Individual Contributor / Other,bearcat.com.au,Motor Vehicle New Parts Wholesaling,Australia,sales@bearcat.com.au,Tier 4 - Nurture
+George Gaber,George,Gaber,Owner And Operator And Host And Guide And Entertainer,Executive / C-Suite,sasktel.net,Ranching,Canada,lareata@sasktel.net,Tier 1 - High Priority
+Gerard Jackson,Gerard,Jackson,"Manager, Pre-Construction",Managerial,termitesolutionsvictoria.com.au,Building Pest Control Services,Australia,info@termitesolutionsvictoria.com.au,Tier 3 - Low Priority
+Gianni Mazzantini,Gianni,Mazzantini,Sales Technician,Individual Contributor / Other,solaronline.com.au,Other Domestic Appliance Manufacturing,Australia,info@solaronline.com.au,Tier 4 - Nurture
+Gilbert Paul,Gilbert,Paul,Director Fin.,Executive / C-Suite,vibro-meter.com,Unknown,United States,paul.gilbert@vibro-meter.com,Tier 1 - High Priority
+Gill Steve,Gill,Steve,Peoplesoft Technical Delivery Manager,Managerial,bupa.com,Fitness & Dance Facilities,United States,steve.gill@bupa.com,Tier 3 - Low Priority
+Gina Locampo,Gina,Locampo,Pick Packer,Individual Contributor / Other,manuelectronics.com.au,Other Professional And Scientific Equipment Manufacturing,Australia,sales@manuelectronics.com.au,Tier 4 - Nurture
+Glenkler-Daugher Myra,Glenkler-Daugher,Myra,Purchasing And C.S. Manager,Managerial,aluchem.com,Unknown,United States,mdaugherty@aluchem.com,Tier 3 - Low Priority
+Glenn Outten,Glenn,Outten,Managing Sales And Design,Individual Contributor / Other,outwestconcrete.com.au,Ready-Mixed Concrete Manufacturing,Australia,glenn.outten@outwestconcrete.com.au,Tier 4 - Nurture
+Gomperts Larry,Gomperts,Larry,Executive Vice President Of Marketing And Strategic Planning,Executive / C-Suite,robbinsbros.com,Jewelry & Watches,United States,lgomperts@robbinsbros.com,Tier 1 - High Priority
+Greenberg Jeremy,Greenberg,Jeremy,"Manager, Leisure Travel",Managerial,travelcts.com,Travel Agencies & Services,United States,jerryg@travelcts.com,Tier 3 - Low Priority
+Greg Brown,Greg,Brown,Founder & Administrator,Executive / C-Suite,cltangelfund.com,"Hospital,Medical Device,Therapeutics,Health Diagnostics",United States,gbrown@cltangelfund.com,Tier 1 - High Priority
+Gregory Madden,Gregory,Madden,Chairman And Director At Wisconsin Center For,Executive / C-Suite,svhealthinvestors.com,"Medical Device,Therapeutics",United Kingdom,gmadden@svhealthinvestors.com,Tier 1 - High Priority
+Guasti Lisa,Guasti,Lisa,Business Review Manager,Managerial,sd.sysco.com,"Gas Stations, Convenience & Liquor Stores",United States,guasti.lisa@sd.sysco.com,Tier 3 - Low Priority
+Hayem Fred,Hayem,Fred,Director Of Asic Engineering,Executive / C-Suite,nextivityinc.com,Computer Networking Equipment,United States,fhayem@nextivityinc.com,Tier 1 - High Priority
+Hayley Trewhella,Hayley,Trewhella,Finance And Hr Manager,Managerial,natalierolt.com,Clothing Manufacturing,Australia,hayley@natalierolt.com,Tier 3 - Low Priority
+Hedir Haron,Hedir,Haron,Florist,Individual Contributor / Other,bridgeroadflorist.com.au,Flower Retailing,Australia,hedir@bridgeroadflorist.com.au,Tier 4 - Nurture
+Helton Joshua,Helton,Joshua,Vice President And Assistant General Manager,Executive / C-Suite,digitalaerial.com,Unknown,United States,jhelton@digitalaerial.com,Tier 1 - High Priority
+Henry Stephens,Henry,Stephens,Rate Card Operations,Individual Contributor / Other,goldcoastcoaches.com.au,Interurban And Rural Bus Transport,Australia,henry@goldcoastcoaches.com.au,Tier 4 - Nurture
+Higgins Jessica,Higgins,Jessica,"Director, Quality",Executive / C-Suite,lyophilization.com,Drug Manufacturing & Research,United States,jhiggins@lyophilization.com,Tier 1 - High Priority
+Holly Mcmaster,Holly,Mcmaster,"Manager, Advertising",Managerial,sgst.com.au,Newspaper Publishing,Australia,holly@sgst.com.au,Tier 3 - Low Priority
+Horan Shawna,Horan,Shawna,Art Management Coordinator,Individual Contributor / Other,stampington.com,Newspapers & News Services,United States,shoran@stampington.com,Tier 4 - Nurture
+Howard Han,Howard,Han,"Head, Principal Investments And Merchant Banking",Director Level,liontree.com,"Robotics,Genetics",United States,hhan@liontree.com,Tier 2 - Medium Priority
+Hunter Dowling,Hunter,Dowling,Sales And Logistics,Individual Contributor / Other,bcp.com.au,Concrete Product Manufacturing,Australia,hunterd@bcp.com.au,Tier 4 - Nurture
+Ingrid Troxler,Ingrid,Troxler,Director Of Events Sales At The National Wwii Museum,Executive / C-Suite,nationalww2museum.org,Museums & Institutions,United States,ingrid.troxler@nationalww2museum.org,Tier 1 - High Priority
+Inness Laurie,Inness,Laurie,Event And Meetings Manager,Managerial,innbythesea.com,Unknown,United States,linness@innbythesea.com,Tier 3 - Low Priority
+Ivor Timmins,Ivor,Timmins,"General Manager, Sentry (Lincoln)",Managerial,lincolnsentry.com.au,Fruit And Vegetable Processing,Australia,ivor.timmins@lincolnsentry.com.au,Tier 3 - Low Priority
+Jack Moshkovich,Jack,Moshkovich,"Private Equity, Lexington Partners",Individual Contributor / Other,8vc.com,"Biometrics,Clinical Trials,Medical Device,Therapeutics,Wellness,Health Diagnostics,Home Health Care,Bioinformatics,Genetics,Personal Health,Robotics,Biopharma",United States,jack@8vc.com,Tier 4 - Nurture
+Jack Riley,Jack,Riley,Boilermaker / Rigger,Individual Contributor / Other,multirig.com.au,Structural Steel Erection Services,Australia,info@multirig.com.au,Tier 4 - Nurture
+Jack Schiller,Jack,Schiller,Video Editor And Motion Graphics Designer,Individual Contributor / Other,gmail.com,Motion Picture And Video Production,Australia,creswickcreativeweb@gmail.com,Tier 4 - Nurture
+Jak Knowles,Jak,Knowles,"Vice President, Venture Investments",Executive / C-Suite,bayer.com,"Alternative Medicine,Therapeutics,Bioinformatics,Clinical Trials",United States,jak.knowles@bayer.com,Tier 1 - High Priority
+James Adox,James,Adox,Founding Partner Of Leading Venture Capital Firms Draper Associates And Dfj.,Managerial,ventureinvestors.com,"Hospital,Medical Device,Health Diagnostics",United States,jim@ventureinvestors.com,Tier 3 - Low Priority
+James Sedgwick,James,Sedgwick,Irrigation Contractor,Executive / C-Suite,centuryrain.com.au,Water Supply,Australia,james@centuryrain.com.au,Tier 1 - High Priority
+James Whittaker,James,Whittaker,Dintinguished Engineer And Technical Evangelist,Individual Contributor / Other,microsoft.com,"Natural Language Processing,Robotics,Bioinformatics,Genetics",United States,jamesw@microsoft.com,Tier 4 - Nurture
+Jamie Kim,Jamie,Kim,General Partner / Director En Inveready,Executive / C-Suite,ctventures.com,"Medical Device,Therapeutics,Health Diagnostics",United States,jamiekim@ctventures.com,Tier 1 - High Priority
+Jane Burgoyne,Jane,Burgoyne,"General Partner, Orbimed Advisors",Individual Contributor / Other,longwallventures.com,"Health Diagnostics,Medical Device,Therapeutics,Biopharma",United Kingdom,jane@longwallventures.com,Tier 4 - Nurture
+Janelle Goulard,Janelle,Goulard,Director Of Health Investment,Executive / C-Suite,pangaeaventures.com,"Health Diagnostics,Medical Device,Human Computer Interaction",Canada,janelle@pangaeaventures.com,Tier 1 - High Priority
+Jason Ball,Jason,Ball,General Manager Quality Assurance And Export Markets,Managerial,schulzswm.com.au,"Meat, Poultry And Smallgoods Wholesaling",Australia,info@schulzswm.com.au,Tier 3 - Low Priority
+Jay Miranda,Jay,Miranda,Health Tech Investor,Individual Contributor / Other,unilever.com,"Biopharma,Personal Health,Wellness",United Kingdom,jay.miranda@unilever.com,Tier 4 - Nurture
+Jeffrey Klunzinger,Jeffrey,Klunzinger,Healthcare Investment Banking Deutsche Bank,Individual Contributor / Other,osf.co,"Robotics,Therapeutics,Biopharma,Health Diagnostics,Medical Device,Genetics,Bioinformatics",United States,jeff@osf.co,Tier 4 - Nurture
+Jenns Cathy,Jenns,Cathy,Usa Move Manager,Managerial,airanimal.com,Unknown,United States,cathy.jenns@airanimal.com,Tier 3 - Low Priority
+Jenny Potter,Jenny,Potter,Conveyancing Department,Individual Contributor / Other,carraramarkets.com.au,Non-Store Retailing,Australia,info@carraramarkets.com.au,Tier 4 - Nurture
+Jepsen Terry,Jepsen,Terry,Human Resources Manager And Web Administrator,Managerial,theflyshop.com,Sporting & Recreational Equipment,United States,terry@theflyshop.com,Tier 3 - Low Priority
+Jeremy Abelson,Jeremy,Abelson,Co-Founder / Principal,Executive / C-Suite,irvinginvestors.com,"Medical Device,Therapeutics,Wellness",United States,jabelson@irvinginvestors.com,Tier 1 - High Priority
+Jeremy Douglas,Jeremy,Douglas,Shed Design,Individual Contributor / Other,actionsheds.com.au,Prefabricated Metal Building Manufacturing,Australia,sales@actionsheds.com.au,Tier 4 - Nurture
+Jim Payne,Jim,Payne,Entrepreneur In Residence,Individual Contributor / Other,accel.com,"Wellness,Emergency Medicine,Medical Device,Alternative Medicine,Hospital,Health Diagnostics,Home Health Care,Robotics,Therapeutics",United States,jpayne@accel.com,Tier 4 - Nurture
+Jim Tenzillo,Jim,Tenzillo,Indian Angel Network,Individual Contributor / Other,investmichigan.org,"Wellness,Therapeutics,Medical Device",United States,jim@investmichigan.org,Tier 4 - Nurture
+Jocelyn Edmonds,Jocelyn,Edmonds,"Manager, Finance & Office",Managerial,rscentre.com.au,Sheet Metal Product Manufacturing (Except Metal Structural And Container),Australia,sales@rscentre.com.au,Tier 3 - Low Priority
+Jody Shepherd,Jody,Shepherd,Investment Associate At Fuel Ventures / Venture Capital Fund,Individual Contributor / Other,serviceprovidercapital.com,"Natural Language Processing,Hospital,Clinical Trials,Health Diagnostics,Cannabis,Wellness",United States,jody@serviceprovidercapital.com,Tier 4 - Nurture
+John Buttrick,John,Buttrick,Partner And General Partner,Individual Contributor / Other,usv.com,"Personal Health,Wellness",United States,john@usv.com,Tier 4 - Nurture
+John Cox,John,Cox,Technical And Print Mgr,Individual Contributor / Other,omt.com.au,"Pulp, Paper And Paperboard Manufacturing",Australia,coxc@omt.com.au,Tier 4 - Nurture
+John Mcauley,John,Mcauley,Position In Architecture,Individual Contributor / Other,johnmcauley.com.au,Justice,Australia,jb@johnmcauley.com.au,Tier 4 - Nurture
+Jones Trent,Jones,Trent,Syd Bulk Duty Manager,Managerial,startrack.com.au,Unknown,Australia,trent.jones@startrack.com.au,Tier 3 - Low Priority
+Josephik Donald,Josephik,Donald,"Sales Manager, E-Mail, Sales Department",Managerial,generalcabinets.com,Unknown,United States,donnie@generalcabinets.com,Tier 3 - Low Priority
+Joy Kennedy,Joy,Kennedy,Assistant To The Principal,Individual Contributor / Other,brisbaneacademyofdance.com.au,Arts Education,Australia,joy@brisbaneacademyofdance.com.au,Tier 4 - Nurture
+Judson B. Traphagen,Judson,B. Traphagen,Owner & Partner,Executive / C-Suite,ploughpenny.com,Family Office,United States,jtraphagen@ploughpenny.com,Tier 1 - High Priority
+Judy Hyman,Judy,Hyman,"Group Manager, Production Planning",Managerial,hospitalitydirectory.com.au,Book Publishing,Australia,jhyman@hospitalitydirectory.com.au,Tier 3 - Low Priority
+Justin Smith-Lorenzetti,Justin,Smith-Lorenzetti,Mdf Family Partners,Individual Contributor / Other,intact.ca,Robotics,Canada,justin@intact.ca,Tier 4 - Nurture
+Justin Stottlemyer,Justin,Stottlemyer,Director Infrastructure Distinguished Engineer,Executive / C-Suite,intuit.com,Diabetes,United States,justin_stottlemyer@intuit.com,Tier 1 - High Priority
+Kaeser John,Kaeser,John,Store Designer And Customer Experience Manager,Managerial,josephbeth.com,Unknown,United States,jkaeser@josephbeth.com,Tier 3 - Low Priority
+Kai Schmitz,Kai,Schmitz,"Co-Founder, Partner",Executive / C-Suite,crestone.vc,"Health Diagnostics,Biopharma,Medical Device,Bioinformatics,Genetics,Hospital,Therapeutics,Clinical Trials,Robotics",United States,kai@crestone.vc,Tier 1 - High Priority
+Karen Baines,Karen,Baines,Business Manager - Food,Managerial,merck.com.au,Basic Organic Chemical Manufacturing,Australia,karen.baines@merck.com.au,Tier 3 - Low Priority
+Karen Gilbert,Karen,Gilbert,Engineering Manager / Approving Authority Manager,Managerial,totaltoilets.com.au,Rigid And Semi-Rigid Polymer Product Manufacturing,Australia,karen@totaltoilets.com.au,Tier 3 - Low Priority
+Kate Harriott,Kate,Harriott,Global Development Chef,Individual Contributor / Other,routleysbakery.com.au,Bread Manufacturing (Factory Based),Australia,kate@routleysbakery.com.au,Tier 4 - Nurture
+Kellie Peckman,Kellie,Peckman,Internal Sales Support Coordinator,Individual Contributor / Other,riversands.com.au,Concreting Services,Australia,kpeckman@riversands.com.au,Tier 4 - Nurture
+Kennedy William,Kennedy,William,Technical Support And Service Manager,Managerial,tmsomaha.com,"Rental - Other - Furniture, A/V, Construction & Industrial Equipment",United States,wkennedy@tmsomaha.com,Tier 3 - Low Priority
+Kevin Kinsella,Kevin,Kinsella,"Managing Member, Founder",Executive / C-Suite,avalon-ventures.com,"Robotics,Health Diagnostics,Biopharma,Therapeutics,Hospital,Personal Health,Wellness,Medical Device,Clinical Trials,Diabetes,Neuroscience",United States,kevin@avalon-ventures.com,Tier 1 - High Priority
+Khaner Nicole,Khaner,Nicole,Projects And Contracts Manager,Managerial,info4seniors.org,Unknown,United States,nkhaner@info4seniors.org,Tier 3 - Low Priority
+Krystyna Winter,Krystyna,Winter,Business Development Manager For Landscape,Managerial,benara.com.au,Other Agricultural Product Wholesaling,Australia,krystyna@benara.com.au,Tier 3 - Low Priority
+Kyle Bawden,Kyle,Bawden,Fitness Training Coordinator,Individual Contributor / Other,splashdevonport.com.au,Amusement Parks And Centres Operation,Australia,kbawden@splashdevonport.com.au,Tier 4 - Nurture
+Kyle Neale,Kyle,Neale,Area Mng,Individual Contributor / Other,nandos.com.au,Takeaway Food Services,Australia,kyle.neale@nandos.com.au,Tier 4 - Nurture
+Lewis Johnnye,Lewis,Johnnye,"Director , Community Environmental Health Program",Executive / C-Suite,cybermesa.com,"Internet Service Providers, Website Hosting & Internet-Related Services",United States,jlewis@cybermesa.com,Tier 1 - High Priority
+Liam Martyn,Liam,Martyn,General Manager Pope Packaging - Flexible Division,Managerial,popes.com.au,Cut And Sewn Textile Product Manufacturing,Australia,liamm@popes.com.au,Tier 3 - Low Priority
+Lisa Branfield,Lisa,Branfield,"Manager, Administration & Qa Representative",Managerial,armstrongenergy.com.au,Other Polymer Product Manufacturing,Australia,lisa@armstrongenergy.com.au,Tier 3 - Low Priority
+Lucas Bray,Lucas,Bray,Warehouse Superviser,Individual Contributor / Other,tyrenetwork.com.au,Tyre Retailing,Australia,sales@tyrenetwork.com.au,Tier 4 - Nurture
+Lynda Macdonald,Lynda,Macdonald,Store Manager & Interior Decorator,Managerial,therugcollection.com.au,Textile Floor Covering Manufacturing,Australia,sales@therugcollection.com.au,Tier 3 - Low Priority
+Marc Tainton,Marc,Tainton,Installer Offsider,Individual Contributor / Other,cooltone.com.au,Glass And Glass Product Manufacturing,Australia,marc.t@cooltone.com.au,Tier 4 - Nurture
+Margot Rupe,Margot,Rupe,"Account Manager, Queensland",Managerial,bikesportz.com.au,Other Transport Equipment Manufacturing N.E.C.,Australia,mrupe@bikesportz.com.au,Tier 3 - Low Priority
+Marina Mcmillan,Marina,Mcmillan,Operations Administration Assistant,Individual Contributor / Other,graymont.com,Cement And Lime Manufacturing,Australia,info@graymont.com,Tier 4 - Nurture
+Mark Crapper,Mark,Crapper,Asc National Leasing And Recruitment Manager,Managerial,hairhousewarehouse.com.au,Cosmetic And Toiletry Preparation Manufacturing,Australia,mark.crapper@hairhousewarehouse.com.au,Tier 3 - Low Priority
+Marni Jenkin,Marni,Jenkin,Royalty Manager,Managerial,gaga.com.au,Music Publishing,Australia,marni@gaga.com.au,Tier 3 - Low Priority
+Martina Kinsella,Martina,Kinsella,Personal Assistant And Administration Officer,Individual Contributor / Other,southportshs.eq.edu.au,Educational Support Services,Australia,martina@southportshs.eq.edu.au,Tier 4 - Nurture
+Maurice Werdegar,Maurice,Werdegar,"Partner, Ceo",Executive / C-Suite,westerntech.com,"Therapeutics,Wellness,Health Diagnostics,Medical Device",United States,maurice@westerntech.com,Tier 1 - High Priority
+Max Skinner,Max,Skinner,Practice Manager / Dispensing Optician,Managerial,optionseyecare.com,Optometry And Optical Dispensing,Australia,info@optionseyecare.com,Tier 3 - Low Priority
+Mcgee Patricia,Mcgee,Patricia,Copyright And Permissions Manager,Managerial,pro-copy.com,Unknown,United States,patricia@pro-copy.com,Tier 3 - Low Priority
+Melissa Western,Melissa,Western,Performer,Individual Contributor / Other,melissawestern.com,Entertainment Media Retailing,Australia,melissa@melissawestern.com,Tier 4 - Nurture
+Meredith Sanders,Meredith,Sanders,"Position, Insurance And Finance Industry",Individual Contributor / Other,sandersfinancialplanning.com.au,Credit Union Operation,Australia,meredith@sandersfinancialplanning.com.au,Tier 4 - Nurture
+Merrow Marcia,Merrow,Marcia,Customer Care Supervisor - Marketing,Managerial,mbp-inc.com,Unknown,United States,marciamerrow@mbp-inc.com,Tier 3 - Low Priority
+Michael Cybulski,Michael,Cybulski,Position In Marketing,Individual Contributor / Other,dmsgroup.net,Credit Reporting And Debt Collection Services,Australia,michael@dmsgroup.net,Tier 4 - Nurture
+Michael Kakaras,Michael,Kakaras,Corporate Authorised Representative No,Individual Contributor / Other,ancadvisers.com.au,Life Insurance,Australia,mkakaras@ancadvisers.com.au,Tier 4 - Nurture
+Michael Romano,Michael,Romano,Partner Of Investor Relations,Individual Contributor / Other,lsvp.com,"Natural Language Processing,Personal Health,Robotics,Hospital,Genetics,Home Health Care,Medical Device,Wellness,Therapeutics,Bioinformatics,Clinical Trials",United States,mromano@lsvp.com,Tier 4 - Nurture
+Micheal Simpson,Micheal,Simpson,Lighting Design & Production Management,Individual Contributor / Other,chameleon-touring.com.au,Performing Arts Venue Operation,Australia,online@chameleon-touring.com.au,Tier 4 - Nurture
+Moody Jonathan,Moody,Jonathan,Assistant Vice President Of Sales,Executive / C-Suite,trustholiday.com,Unknown,United States,jonathan@trustholiday.com,Tier 1 - High Priority
+Morris Kellie,Morris,Kellie,Central Services Supervisor,Managerial,cmcc.edu,Unknown,United States,kmorris@cmcc.edu,Tier 3 - Low Priority
+Mosher Brittney,Mosher,Brittney,Internet Services Operations Supervisor,Managerial,bbw.com,Unknown,United States,bmosher@bbw.com,Tier 3 - Low Priority
+Mullins Donna,Mullins,Donna,Patron Relations Manager,Managerial,nctheatre.com,Unknown,United States,dmullins@nctheatre.com,Tier 3 - Low Priority
+Nadine Martin,Nadine,Martin,Fleet And Purchasing,Individual Contributor / Other,eastgippsland.vic.gov.au,Amusement And Other Recreational Activities N.E.C.,Australia,info@eastgippsland.vic.gov.au,Tier 4 - Nurture
+Nathan Warwick,Nathan,Warwick,Spare Parts Sales & Hose Technician,Individual Contributor / Other,scottshydraulics.net.au,Other Machinery And Equipment Repair And Maintenance,Australia,kempsey@scottshydraulics.net.au,Tier 4 - Nurture
+Natsuki Zihnioglu,Natsuki,Zihnioglu,"Co-Founder, Alore - Growth Os",Executive / C-Suite,dnx.vc,"Robotics,Human Computer Interaction,Wellness",United States,nat@dnx.vc,Tier 1 - High Priority
+Naza Metghalchi,Naza,Metghalchi,Venture Lead,Managerial,eqtventures.com,"Clinical Trials,Health Diagnostics",United Kingdom,naza@eqtventures.com,Tier 3 - Low Priority
+Nichols Christy,Nichols,Christy,Case Management Administrative Assistant,Individual Contributor / Other,thebaileygp.com,Unknown,United States,christy@thebaileygp.com,Tier 4 - Nurture
+Nicole Cardwell,Nicole,Cardwell,Project Administration Assistant,Individual Contributor / Other,sjta.com.au,Structural Steel Fabricating,Australia,nicole@sjta.com.au,Tier 4 - Nurture
+Noriega Elvis,Noriega,Elvis,Assistant Shipping Manager,Managerial,luggageamerica.com,Electronic Components,United States,elvisn@luggageamerica.com,Tier 3 - Low Priority
+Osborne Lori,Osborne,Lori,General Manager Multi Service 3,Managerial,sodexo.com,Unknown,United States,lori.osborne@sodexo.com,Tier 3 - Low Priority
+Pappas Shari,Pappas,Shari,Manager Iv Finance,Managerial,portsamerica.com,Marine Shipping & Transportation,United States,shari.pappas@portsamerica.com,Tier 3 - Low Priority
+Paul Mcveigh,Paul,Mcveigh,Director & Vice Chairman,Executive / C-Suite,csd.net.au,Cotton Growing,Australia,pmcveigh@csd.net.au,Tier 1 - High Priority
+Paul Wowk,Paul,Wowk,"Senior Manager, Construction",Managerial,alliedgrainsystems.com.au,Grain Storage Services,Australia,paul@alliedgrainsystems.com.au,Tier 3 - Low Priority
+Paula Parnell,Paula,Parnell,Pa To Chief Executive Officer/National Sales & Marketing Manager,Executive / C-Suite,everhard.com.au,Other Metal Container Manufacturing,Australia,info@everhard.com.au,Tier 1 - High Priority
+Pecze Mike,Pecze,Mike,"Sales Manager, Power Protection Products",Managerial,jsfleming.com,Appliances,United States,mpecze@jsfleming.com,Tier 3 - Low Priority
+Perryman Penny,Perryman,Penny,District Office - Executive Assistant And Human Resources Manager,Managerial,rivendellschool.org,Unknown,United States,pperryman@rivendellschool.org,Tier 3 - Low Priority
+Pete Solvik,Pete,Solvik,Foundng Partner & Managing Director,Executive / C-Suite,jsv.com,"Hospital,Medical Device,Home Health Care,Electronic Health Record (Ehr)",United States,pete@jsv.com,Tier 1 - High Priority
+Preston Massey,Preston,Massey,Co-Founder & Managing Member,Executive / C-Suite,congruentinv.com,Lender/Debt Provider,United States,pmassey@congruentinv.com,Tier 1 - High Priority
+Quealy Tony,Quealy,Tony,Room Manager,Managerial,halterranch.com,Wineries & Breweries,United States,tony@halterranch.com,Tier 3 - Low Priority
+Ray Wang,Ray,Wang,Founder & Principal Analyst,Executive / C-Suite,constellationr.com,Biopharma,United States,ray@constellationr.com,Tier 1 - High Priority
+Rayyan Islam,Rayyan,Islam,Venture Capital Associate,Individual Contributor / Other,romuluscap.com,"Medical Device,Therapeutics,Health Diagnostics,Wellness,Genetics",United States,rayyan@romuluscap.com,Tier 4 - Nurture
+Reiner Amy,Reiner,Amy,Production Manager And Properties Manager,Managerial,bluebarn.org,Movie Theaters,United States,areiner@bluebarn.org,Tier 3 - Low Priority
+RenÂ‚ Bonvanie,RenÂ‚,Bonvanie,Eir,Individual Contributor / Other,battery.com,"Natural Language Processing,Robotics,Hospital,Electronic Health Record (Ehr),Clinical Trials,Medical Device",United States,rene@battery.com,Tier 4 - Nurture
+Renee Power,Renee,Power,Distributor Marketing Manager - Australia,Managerial,shell.com,Fruit And Vegetable Retailing,Australia,renee.power@shell.com,Tier 3 - Low Priority
+Richard Templeton,Richard,Templeton,Client Management Head,Director Level,verified.com.au,Synthetic Textile Manufacturing,Australia,richard.templeton@verified.com.au,Tier 2 - Medium Priority
+Richard Tesoriero,Richard,Tesoriero,Experienced Transport Operations Manager,Managerial,floormania.com.au,Carpentry Services,Australia,info@floormania.com.au,Tier 3 - Low Priority
+Richardson Greg,Richardson,Greg,Global Channel Marketing Manager,Managerial,panini.com,Unknown,United States,greg.richardson@panini.com,Tier 3 - Low Priority
+Rick Dibbs,Rick,Dibbs,Medicine Cabinet,Individual Contributor / Other,radibbs.com.au,Pesticide Manufacturing,Australia,rick@radibbs.com.au,Tier 4 - Nurture
+Rick Kane,Rick,Kane,"Vice President , Sales Usa",Executive / C-Suite,neatfreak.com,Import & Export,United States,rkane@neatfreak.com,Tier 1 - High Priority
+Rob Mcintosh,Rob,Mcintosh,Pricing Strategy Analyst,Individual Contributor / Other,cleanaway.com.au,Basic Inorganic Chemical Manufacturing,Australia,rob.mcintosh@cleanaway.com.au,Tier 4 - Nurture
+Robbins Laura,Robbins,Laura,Credit And Payroll Manager,Managerial,vikingcontrols.com,Unknown,United States,laura.robbins@vikingcontrols.com,Tier 3 - Low Priority
+Robert Ingrisano,Robert,Ingrisano,"Programming Presentation, Network Ten",Individual Contributor / Other,alarmsrus.com.au,Fire And Security Alarm Installation Services,Australia,admin@alarmsrus.com.au,Tier 4 - Nurture
+Rod Ferguson,Rod,Ferguson,Pacific Region,Individual Contributor / Other,cjamarine.com.au,Water Freight Transport,Australia,rod@cjamarine.com.au,Tier 4 - Nurture
+Romain Andrieu,Romain,Andrieu,System Telecommunications Specialist,Individual Contributor / Other,diplomatie.gouv.fr,Foreign Government Representation,Australia,romain.andrieu@diplomatie.gouv.fr,Tier 4 - Nurture
+Ron Rofe,Ron,Rofe,Co Founder & General Partner,Executive / C-Suite,rainfall.com,"Therapeutics,Wellness",United States,ron@rainfall.com,Tier 1 - High Priority
+Rory Gration,Rory,Gration,"Managing Director - Commercial, Anz",Executive / C-Suite,pzcussons.com,Cleaning Compound Manufacturing,Australia,pzcanzcommunications@pzcussons.com,Tier 1 - High Priority
+Rose Nation,Rose,Nation,Nation Training,Individual Contributor / Other,abbsolve.com.au,Laundry And Dry-Cleaning Services,Australia,rose@abbsolve.com.au,Tier 4 - Nurture
+Ross Melanie,Ross,Melanie,Sales And Communications Manager,Managerial,dolbychadwickgallery.com,Museums & Art Galleries,United States,melanie@dolbychadwickgallery.com,Tier 3 - Low Priority
+Rudacille Charlie,Rudacille,Charlie,"Accounting, Nancy Shepard Gift Fruit Division Director",Executive / C-Suite,hellerbros.com,Unknown,United States,crudacille@hellerbros.com,Tier 1 - High Priority
+Ryan Helon,Ryan,Helon,"Svp, Investments",Individual Contributor / Other,rev1ventures.com,"Clinical Trials,Hospital,Health Diagnostics,Medical Device,Therapeutics,Biopharma",United States,ryan@rev1ventures.com,Tier 4 - Nurture
+Salisbury Benjamin,Salisbury,Benjamin,Concert And Artist Manager,Managerial,steinway.com,Music & Music Related Services,United States,bsalisbury@steinway.com,Tier 3 - Low Priority
+Sam Nickless,Sam,Nickless,Managing Director Emerging Businesses And Strategy,Executive / C-Suite,nab.com.au,Printing Support Services,Australia,sam.nickless@nab.com.au,Tier 1 - High Priority
+Samvit Ramadurgam,Samvit,Ramadurgam,"Founder,President",Executive / C-Suite,forgeglobal.com,"Robotics,Health Diagnostics,Personal Health",United States,samvit@forgeglobal.com,Tier 1 - High Priority
+Scott Belsky,Scott,Belsky,"Chief Product Officer, Executive Vice President - Creative Cloud",Executive / C-Suite,adobe.com,Personal Health,United States,sbelsky@adobe.com,Tier 1 - High Priority
+Shauna Boyle,Shauna,Boyle,Delivery Pharmacist,Individual Contributor / Other,ambulance.vic.gov.au,Ambulance Services,Australia,shauna.boyle@ambulance.vic.gov.au,Tier 4 - Nurture
+Sheryl Murray,Sheryl,Murray,Head Office Labrador,Director Level,worldcarpets.com.au,Floor Coverings Retailing,Australia,sheryl@worldcarpets.com.au,Tier 2 - Medium Priority
+Siemens Keith,Siemens,Keith,Accounting Mnaager,Individual Contributor / Other,robbrossfoods.com,Office Products,United States,keith@robbrossfoods.com,Tier 4 - Nurture
+Simon Brennan,Simon,Brennan,Bre Engineering,Individual Contributor / Other,bre.engineering,Mining And Construction Machinery Manufacturing,Australia,simon@bre.engineering,Tier 4 - Nurture
+Smith Ronnie,Smith,Ronnie,Product Development And Costing Manager,Managerial,convertingsolutions.net,Unknown,United States,ronnie@convertingsolutions.net,Tier 3 - Low Priority
+Sophie Chilcott,Sophie,Chilcott,"Head Of Accounting, Administration",Director Level,impactbathrooms.com.au,Textile Product Wholesaling,Australia,sophie@impactbathrooms.com.au,Tier 2 - Medium Priority
+Sorento Joe,Sorento,Joe,"Pre Production Manager,Engineering Department Manager,Customer Service",Managerial,godfreygroup.com,Unknown,United States,jsorento@godfreygroup.com,Tier 3 - Low Priority
+Sou Tan,Sou,Tan,Divisional Manager Corporate Services,Managerial,gsi.org.au,Antique And Used Goods Retailing,Australia,soulin.tan@gsi.org.au,Tier 3 - Low Priority
+Stacey Lewis,Stacey,Lewis,Group Sales And Events Director,Executive / C-Suite,carolfoxassociates.com,Public Relations & Communications,United States,staceyl@carolfoxassociates.com,Tier 1 - High Priority
+Stanczyk Cassie,Stanczyk,Cassie,Eu Sales And Marketing Manager,Managerial,bella.com,Textiles & Apparel,United States,cassie.stanczyk@bella.com,Tier 3 - Low Priority
+Stanhope Thomas,Stanhope,Thomas,Prodcut Development Manager,Managerial,ufpt.com,Unknown,United States,tstanhope@ufpt.com,Tier 3 - Low Priority
+Stansell Jessica,Stansell,Jessica,"Senior Manager, Programs And Services",Managerial,bellleadership.com,Unknown,United States,jess.stansell@bellleadership.com,Tier 3 - Low Priority
+Talecia Wills,Talecia,Wills,Helping Maintain A Quality Service,Individual Contributor / Other,rivercitytrees.com.au,Forestry Support Services,Australia,talecia@rivercitytrees.com.au,Tier 4 - Nurture
+Tanya Dwyer,Tanya,Dwyer,"Manager, Leasing Contract",Managerial,dha.gov.au,Building Society Operation,Australia,tanya.dwyer@dha.gov.au,Tier 3 - Low Priority
+Thomas Tsikouris,Thomas,Tsikouris,Sales Manager (Australia),Managerial,freightforwarderquoteonline.com.au,Freight Forwarding Services,Australia,thomas@freightforwarderquoteonline.com.au,Tier 3 - Low Priority
+Unni Gopalan,Unni,Gopalan,Warehouse Operations,Individual Contributor / Other,amservices.net.au,Postal Services,Australia,info@amservices.net.au,Tier 4 - Nurture
+Weissman Todd,Weissman,Todd,National Account Manager-Hospitality,Managerial,impulseenterprises.com,Unknown,United States,tweissman@impulseenterprises.com,Tier 3 - Low Priority
+White Sheila,White,Sheila,Financial Controls And Technology Manager,Managerial,gha-nc.org,Unknown,United States,swhite@gha-nc.org,Tier 3 - Low Priority
+Zoltan Tompa,Zoltan,Tompa,"Director, Cleantech Practice",Executive / C-Suite,bdc.ca,"Medical Device,Biometrics,Human Computer Interaction,Robotics,Wellness,Personal Health",Canada,zoltan.tompa@bdc.ca,Tier 1 - High Priority
