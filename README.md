@@ -1,7 +1,7 @@
 # B2B Lead Intelligence & Firmographic Analysis
 
 ## 📊 Project Overview & Executive Summary
-This project engineered an end-to-end data processing and analytics pipeline to optimize an international database of **763 corporate leads**. By standardizing, enriching, and segmenting data across a multi-tool lifecycle (**Python ➔ MySQL ➔ Power BI**), I established a structured lead intelligence model to replace flat, unorganized telemetry.
+This project engineered an end-to-end data processing and analytics pipeline to optimize an international database of **763 corporate leads**. By standardizing, enriching, and segmenting data across a multi-tool lifecycle (**Python ➔ Postgres SQL ➔ Power BI**), I established a structured lead intelligence model to replace flat, unorganized telemetry.
 
 Because the raw dataset lacked pre-defined buyer targeting constraints, I designed a strategic prioritization framework based on corporate seniority levels. The final metrics reveal that while **Australia holds the largest overall market volume with 327 accounts**, the **United States provides the deepest target footprint with 104 Tier-1 High-Priority enterprise decision-makers.**
 
@@ -12,7 +12,7 @@ The project architecture maps an active, non-destructive data engineering pipeli
 
 1. **Data Cleansing & Ingestion (Python):** Processed raw text fields via `Pandas` to remove leading/trailing whitespaces, correct string capitalization anomalies, eliminate duplicate records, and safely resolve missing values using descriptive markers.
 2. **Feature Enrichment (Python):** Engineered programmatic keyword arrays to evaluate raw job titles, parse them into systematic seniority brackets, and dynamically extract corporate email domains.
-3. **Database Layer (MySQL):** Abstracted calculation rows into a performant relational database layer, utilizing a database view (`CREATE VIEW`) to isolate business logic and ensure the workflow remains flexible to changing sales rules.
+3. **Database Layer (Postgres SQL):** Abstracted calculation rows into a performant relational database layer, utilizing a database view (`CREATE VIEW`) to isolate business logic and ensure the workflow remains flexible to changing sales rules.
 4. **Data Visualization (Power BI):** Developed an executive dashboard visualizing macro market concentrations, job level distributions, and cross-market segment matrices.
 
 ---
@@ -47,6 +47,20 @@ Below is the visual analytical model engineered to communicate core pipeline dis
 ---
 
 ## 🚀 Strategic Sales Operations Recommendations
-1. **Deploy Enterprise ABM Campaigns for the US Market:** Maximize the footprint within the **United States**. Because it holds over half of your premium buyers (104 C-Suite leads), allocate dedicated sales development resources to target these enterprise accounts.
-2. **Prioritize Canadian Outbound Outreach:** Deploy direct manual sales assets into Canadian targets immediately. Since **Canada contains an unmatched 47.22% target tier concentration ratio**, it provides the lowest conversion friction for high-value closures.
-3. **Automate Lower-Tier Marketing for Australia:** Avoid assigning expensive sales developer time to the Australian pipeline. Because it holds a heavy baseline of **163 individual contributors**, route this region through automated inbound content drip loops to scale efficiency.
+
+1. **Focus on the US for Big Enterprise Deals:** 
+   * **Action:** Put your best sales efforts into the **United States**. 
+   * **Reason:** The US holds **over half (58.4%) of your top-level C-Suite leaders** (104 out of 178), making it your best market for high-value sales.
+
+2. **Quick Wins in Canada and the UK:**
+   * **Action:** Reach out directly to leads in **Canada** and the **United Kingdom** right away.
+   * **Reason:** Canada has the highest percentage of decision-makers (**47.22%**), followed closely by the UK (**37.14%**), meaning you will run into much less resistance closing deals there.
+
+3. **Automate Your Approach for Australia:**
+   * **Action:** Use automated email campaigns or digital marketing for **Australia** instead of spending hours on manual calls.
+   * **Reason:** Even though Australia has the highest number of total leads (327), most of them are lower-tier staff (163 individual contributors) rather than final decision-makers.
+
+4. **Target Healthcare and Manufacturing Sectors:**
+   * **Action:** Tailor your sales pitches toward the **Healthcare** and **Manufacturing** industries.
+   * **Reason:** Outside of miscellaneous categories, these two sectors hold the largest number of high-priority decision-makers ready for direct outreach.
+
