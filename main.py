@@ -95,10 +95,40 @@ df['Priority Tier'] = df['Seniority Level'].apply(assign_priority)
 
 # 6] Check Null values again 
 # print(df.isnull().sum())
-# Filling the missing values
 
+# Filling the missing values
 df['Industry'] = df['Industry'].fillna('Unknown')
 df['Last Name'] = df['Last Name'].fillna('Unknown')
+
+def categorize_industry_sector(ind):
+    if pd.isna(ind):
+        return 'Other / Unknown'
+    ind = str(ind).lower()
+    
+    if any(k in ind for k in ['software', 'it ', 'information technology', 'internet', 'web', 'computer', 'saas', 'data processing', 'hosting', 'cyber', 'telecom', 'hardware', 'semiconductor']):
+        return 'Technology & IT'
+    elif any(k in ind for k in ['financial', 'bank', 'investment', 'insurance', 'wealth', 'credit', 'mortgage', 'accounting', 'fintech', 'capital', 'fund', 'venture', 'asset']):
+        return 'Finance & Banking'
+    elif any(k in ind for k in ['health', 'medical', 'pharma', 'biotech', 'hospital', 'therapeutics', 'wellness', 'clinical', 'diagnostics', 'dental', 'biopharma', 'genetics']):
+        return 'Healthcare & Lifesciences'
+    elif any(k in ind for k in ['hospitality', 'hotel', 'restaurant', 'travel', 'tourism', 'food', 'beverage', 'leisure', 'entertainment', 'gaming', 'casino', 'sports', 'recreation', 'fitness', 'event']):
+        return 'Hospitality & Leisure'
+    elif any(k in ind for k in ['consult', 'legal', 'law', 'accounting', 'marketing', 'advertising', 'public relations', 'hr', 'human resources', 'staffing', 'management advice', 'professional services', 'design', 'architecture', 'photography', 'security', 'investigation', 'auditing']):
+        return 'Professional Services'
+    elif any(k in ind for k in ['manufactur', 'industrial', 'machinery', 'automotive', 'motor vehicle', 'chemical', 'metals', 'textile', 'construction', 'building', 'engineering', 'logistics', 'transport', 'shipping', 'maritime', 'aerospace', 'cargo', 'freight', 'warehousing', 'packaging', 'printing']):
+        return 'Manufacturing & Industrial'
+    elif any(k in ind for k in ['retail', 'consumer', 'goods', 'e-commerce', 'ecommerce', 'apparel', 'fashion', 'store', 'shopping', 'wholesale', 'distributor', 'products']):
+        return 'Retail & Consumer Goods'
+    elif any(k in ind for k in ['educat', 'school', 'university', 'college', 'training', 'research', 'think tank', 'academy', 'library']):
+        return 'Education & Research'
+    elif any(k in ind for k in ['energy', 'oil', 'gas', 'utilities', 'renewables', 'environment', 'solar', 'power', 'mining', 'agriculture', 'farming', 'forestry', 'water', 'waste', 'recycling']):
+        return 'Energy & Natural Resources'
+    elif any(k in ind for k in ['nonprofit', 'non-profit', 'ngo', 'government', 'public sector', 'civic', 'social', 'association', 'political', 'philanthropy']):
+        return 'Government & Non-Profit'
+    else:
+        return 'Other / Miscellaneous'
+
+df['Industry Sector'] = df['Industry'].apply(categorize_industry_sector)
 
 # print(df.isnull().sum())
 
@@ -120,4 +150,4 @@ dff = pd.read_csv('cleaned_b2b_leads.csv')
 # print(dff.info())
 # print(dff.isnull().sum())
 # print(dff.duplicated().sum())
-print(dff.head())
+# print(dff.head())
